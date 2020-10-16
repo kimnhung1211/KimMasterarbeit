@@ -1,6 +1,5 @@
 import datetime
 from utils import helper
-import pandas as pd
 import config
 
 
@@ -127,69 +126,7 @@ class Itinerary(object):
         self.travel_time = helper.path_length(G, path, 'travel_time')
         self.number_of_transfer = helper.path_length(G, path, 'transfer')
         self.schedule_df = self.create_itinerary_segments(G, path)
-
-    def create_itinerary_segments(self, G, path):
-        number_of_node = len(path)
-        actions = []
-        durations = []
-        from_stops = []
-        to_stops = []
-        vehicles = []
-        for index, node in enumerate(path):
-            if index == number_of_node - 1:
-                continue
-
-            if index == 0:
-                action = "Walk"
-                duration = G[path[index]][path[index+1]]['travel_time']
-                from_stop = 'Start Location'
-                to_stop = G.nodes[path[index+1]]['stop_name']
-                vehicle = "FOOT"
-
-            elif index == number_of_node - 2:
-                action = "Walk"
-                duration = G[path[index]][path[index+1]]['travel_time']
-                from_stop = G.nodes[path[index]]['stop_name']
-                to_stop = 'End Location'
-                vehicle = "FOOT"
-
-            elif G.nodes[path[index]]['trip_id'] \
-                    == G.nodes[path[index+1]]['trip_id']:
-                if G.nodes[path[index]]['stop_name'] \
-                        != G.nodes[path[index+1]]['stop_name']:
-                    action = "Ride"
-                else:
-                    action = "Stay On Vehicle"
-                duration = G[path[index]][path[index+1]]['travel_time']
-                from_stop = G.nodes[path[index]]['stop_name']
-                to_stop = G.nodes[path[index+1]]['stop_name']
-                vehicle = G.nodes[path[index+1]]['vehicle_type'] \
-                    + G.nodes[path[index+1]]['trip_id']
-
-            elif G.nodes[path[index]]['trip_id'] \
-                    != G.nodes[path[index+1]]['trip_id']:
-                action = "Transfer"
-                duration = G[path[index]][path[index+1]]['travel_time']
-                from_stop = G.nodes[path[index]]['stop_name']
-                to_stop = G.nodes[path[index+1]]['stop_name']
-                vehicle = "FOOT"
-
-            actions.append(action)
-            durations.append(round(duration/60, 1))
-            from_stops.append(from_stop)
-            to_stops.append(to_stop)
-            vehicles.append(vehicle)
-
-            itinerary_df = pd.DataFrame(
-                {'Action': actions,
-                 'Duration': durations,
-                 'From': from_stops,
-                 'To': to_stops,
-                 'Vehicle': vehicles,
-                 })
-        return itinerary_df
-
-
+        
 class SamplingInterval(object):
     lower_limit = float
     upper_limit = float
