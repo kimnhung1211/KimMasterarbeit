@@ -1,0 +1,814 @@
+route_id,agency_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+FLIXBUS:001,FLIXBUS,FlixBus,Freiburg - Munich,,3,,73D700,FFFFFF
+FLIXBUS:002,FLIXBUS,FlixBus,Warnemünde - BAX - SXF - Leipzig,,3,,73D700,FFFFFF
+FLIXBUS:006,FLIXBUS,FlixBus,Zürich - München - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:007,FLIXBUS,FlixBus,Hamburg - Zürich,,3,,73D700,FFFFFF
+FLIXBUS:008,FLIXBUS,FlixBus,Lörrach - KA - Tübingen,,3,,73D700,FFFFFF
+FLIXBUS:009,FLIXBUS,FlixBus,Berlin - Ludwigshafen,,3,,73D700,FFFFFF
+FLIXBUS:011,FLIXBUS,FlixBus,Amsterdam-CGN-Freiburg-Konstanz,,3,,73D700,FFFFFF
+FLIXBUS:012,FLIXBUS,FlixBus,Dresden - Leipzig - Mannheim,,3,,73D700,FFFFFF
+FLIXBUS:013,FLIXBUS,FlixBus,Berlin - Frankfurt - Saarbrücken,,3,,73D700,FFFFFF
+FLIXBUS:015,FLIXBUS,FlixBus,Berlin - Freiburg,,3,,73D700,FFFFFF
+FLIXBUS:016,FLIXBUS,FlixBus,Freiburg - Essen,,3,,73D700,FFFFFF
+FLIXBUS:017,FLIXBUS,FlixBus,Kornwestheim - Münster - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:020,FLIXBUS,FlixBus,Dresden - Essen,,3,,73D700,FFFFFF
+FLIXBUS:021,FLIXBUS,FlixBus,Dresden - Karlsruhe - Freiburg,,3,,73D700,FFFFFF
+FLIXBUS:022,FLIXBUS,FlixBus,Lörrach - Freiburg - Oldenburg,,3,,73D700,FFFFFF
+FLIXBUS:023,FLIXBUS,FlixBus,Dresden - Düsseldorf,,3,,73D700,FFFFFF
+FLIXBUS:024,FLIXBUS,FlixBus,Mailand - Hamburg,,3,,73D700,FFFFFF
+FLIXBUS:025,FLIXBUS,FlixBus,Leipzig - Berlin - Lubmin,,3,,73D700,FFFFFF
+FLIXBUS:026,FLIXBUS,FlixBus,Luxembourg/Trier - Frankfurt/Berlin,,3,,73D700,FFFFFF
+FLIXBUS:027,FLIXBUS,FlixBus,Amsterdam / Wilhelmshaven / Essen - München,,3,,73D700,FFFFFF
+FLIXBUS:028,FLIXBUS,FlixBus,München / Schwabach - Frankfurt - Koblenz - Düsseldorf/Bochum,,3,,73D700,FFFFFF
+FLIXBUS:029,FLIXBUS,FlixBus,München - Jena - Hamburg,,3,,73D700,FFFFFF
+FLIXBUS:030,FLIXBUS,FlixBus,Berlin - Düsseldorf,,3,,73D700,FFFFFF
+FLIXBUS:031,FLIXBUS,FlixBus,Berlin - Münster,,3,,73D700,FFFFFF
+FLIXBUS:032,FLIXBUS,FlixBus,Berlin - Copenhagen/Malmö,,3,,73D700,FFFFFF
+FLIXBUS:034,FLIXBUS,FlixBus,Berlin - München,,3,,73D700,FFFFFF
+FLIXBUS:035,FLIXBUS,FlixBus,Berlin - Kassel - Winterberg,,3,,73D700,FFFFFF
+FLIXBUS:036,FLIXBUS,FlixBus,Saarbrücken / Strasbourg - München - Wien,,3,,73D700,FFFFFF
+FLIXBUS:037,FLIXBUS,FlixBus,Duisburg - München,,3,,73D700,FFFFFF
+FLIXBUS:038,FLIXBUS,FlixBus,Berlin - Bonn,,3,,73D700,FFFFFF
+FLIXBUS:039,FLIXBUS,FlixBus,Berlin - Chemnitz/Zwickau,,3,,73D700,FFFFFF
+FLIXBUS:040,FLIXBUS,FlixBus,München ✈ - Innsbruck,,3,,73D700,FFFFFF
+FLIXBUS:041,FLIXBUS,FlixBus,Berlin - Hof - Selb - Weiden - Schwandorf - Regensburg - Straubing - Deggendorf - Passau,,3,,73D700,FFFFFF
+FLIXBUS:042,FLIXBUS,FlixBus,Tübingen - Stuttgart - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:044,FLIXBUS,FlixBus,Berlin - Wilhelmshaven,,3,,73D700,FFFFFF
+FLIXBUS:045,FLIXBUS,FlixBus,Kempten - Nürnberg - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:047,FLIXBUS,FlixBus,Berlin - Rostock - Kühlungsborn,,3,,73D700,FFFFFF
+FLIXBUS:049,FLIXBUS,FlixBus,Leipzig - Berlin - Schwerin - Lübeck,,3,,73D700,FFFFFF
+FLIXBUS:050,FLIXBUS,FlixBus,Berlin - Hamburg - Kiel,,3,,73D700,FFFFFF
+FLIXBUS:051,FLIXBUS,FlixBus,Berlin - Harz - Düsseldorf,,3,,73D700,FFFFFF
+FLIXBUS:052,FLIXBUS,FlixBus,Berlin - Halle(S) - Gera,,3,,73D700,FFFFFF
+FLIXBUS:054,FLIXBUS,FlixBus,Berlin-Erfurt-Frankfurt(Main),,3,,73D700,FFFFFF
+FLIXBUS:055,FLIXBUS,FlixBus,Leipzig - Karlsruhe - Offenburg,,3,,73D700,FFFFFF
+FLIXBUS:056,FLIXBUS,FlixBus,Sauerland - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:057,FLIXBUS,FlixBus,Berlin Tegel - Berlin ZOB - Szczecin,,3,,73D700,FFFFFF
+FLIXBUS:059,FLIXBUS,FlixBus,Berlin - Paderborn,,3,,73D700,FFFFFF
+FLIXBUS:060,FLIXBUS,FlixBus,Berlin - Prague - Vienna/Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:061,FLIXBUS,FlixBus,Frankfurt - Regensburg (ex Essen-Wien),,3,,73D700,FFFFFF
+FLIXBUS:063,FLIXBUS,FlixBus,Freiburg - Bodensee - München,,3,,73D700,FFFFFF
+FLIXBUS:064,FLIXBUS,FlixBus,Dresden - Aachen,,3,,73D700,FFFFFF
+FLIXBUS:065,FLIXBUS,FlixBus,Berlin Alexanderplatz - Leipzig,,3,,73D700,FFFFFF
+FLIXBUS:066,FLIXBUS,FlixBus,Hamburg - Potsdam - Prague,,3,,73D700,FFFFFF
+FLIXBUS:068,FLIXBUS,FlixBus,(Prag) - Bayreuth - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:070,FLIXBUS,FlixBus,Dresden - Hamburg,,3,,73D700,FFFFFF
+FLIXBUS:071,FLIXBUS,FlixBus,Aachen - Hamburg,,3,,73D700,FFFFFF
+FLIXBUS:072,FLIXBUS,FlixBus,Köln/Essen - HH - Schwerin/Rostock,,3,,73D700,FFFFFF
+FLIXBUS:073,FLIXBUS,FlixBus,Köln - Stockholm,,3,,73D700,FFFFFF
+FLIXBUS:074,FLIXBUS,FlixBus,Düsseldorf - Rostock,,3,,73D700,FFFFFF
+FLIXBUS:075,FLIXBUS,FlixBus,Rotterdam - Amsterdam - Hamburg,,3,,73D700,FFFFFF
+FLIXBUS:076,FLIXBUS,FlixBus,Munich - Milan/Turin,,3,,73D700,FFFFFF
+FLIXBUS:079,FLIXBUS,FlixBus,Dortmund - Paris,,3,,73D700,FFFFFF
+FLIXBUS:080,FLIXBUS,FlixBus,Dortmund - London,,3,,73D700,FFFFFF
+FLIXBUS:081,FLIXBUS,FlixBus,Wolfenbüttel/Berlin - Brüssel,,3,,73D700,FFFFFF
+FLIXBUS:082,FLIXBUS,FlixBus,Erfurt - Prague,,3,,73D700,FFFFFF
+FLIXBUS:083,FLIXBUS,FlixBus,München - Prag,,3,,73D700,FFFFFF
+FLIXBUS:084,FLIXBUS,FlixBus,(Essen) – Düsseldorf - Nürnberg - (Prag),,3,,73D700,FFFFFF
+FLIXBUS:085,FLIXBUS,FlixBus,Hamburg - Karlsruhe,,3,,73D700,FFFFFF
+FLIXBUS:086,FLIXBUS,FlixBus,MUC ✈ - Munich - Salzburg,,3,,73D700,FFFFFF
+FLIXBUS:087,FLIXBUS,FlixBus,München - Bielefeld - Hamburg,,3,,73D700,FFFFFF
+FLIXBUS:090,FLIXBUS,FlixBus,Frankfurt-Saarbrücken-Paris,,3,,73D700,FFFFFF
+FLIXBUS:091,FLIXBUS,FlixBus,Paris - München - Linz - Budapest,,3,,73D700,FFFFFF
+FLIXBUS:095,FLIXBUS,FlixBus,München - Meran,,3,,73D700,FFFFFF
+FLIXBUS:096,FLIXBUS,FlixBus,Graz - Wien,,3,,73D700,FFFFFF
+FLIXBUS:098,FLIXBUS,FlixBus,Frankfurt - Kiel,,3,,73D700,FFFFFF
+FLIXBUS:099,FLIXBUS,FlixBus,Paris - Mulhouse - Zurich,,3,,73D700,FFFFFF
+FLIXBUS:101,FLIXBUS,FlixBus,München - Stuttgart - Freiburg,,3,,73D700,FFFFFF
+FLIXBUS:105,FLIXBUS,FlixBus,Hamburg - Zwickau - Prague,,3,,73D700,FFFFFF
+FLIXBUS:106,FLIXBUS,FlixBus,Munich - Lyon/Interlaken,,3,,73D700,FFFFFF
+FLIXBUS:107,FLIXBUS,FlixBus,Frankfurt - Zürich - Mailand,,3,,73D700,FFFFFF
+FLIXBUS:108,FLIXBUS,FlixBus,Frankfurt - Basel Euroairport - Zürich,,3,,73D700,FFFFFF
+FLIXBUS:110,FLIXBUS,FlixBus,Osnabrück - F - Friedrichshafen,,3,,73D700,FFFFFF
+FLIXBUS:113,FLIXBUS,FlixBus,Saarbrücken - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:117,FLIXBUS,FlixBus,Dortmund - Konstanz,,3,,73D700,FFFFFF
+FLIXBUS:120,FLIXBUS,FlixBus,Leipzig/Marburg - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:121,FLIXBUS,FlixBus,Munich - Dresden/Görlitz,,3,,73D700,FFFFFF
+FLIXBUS:122,FLIXBUS,FlixBus,Frankfurt - Lyon,,3,,73D700,FFFFFF
+FLIXBUS:123,FLIXBUS,FlixBus,Berlin - Halle - Düsseldorf,,3,,73D700,FFFFFF
+FLIXBUS:124,FLIXBUS,FlixBus,Ulm - Stuttgart Airport - Zürich - Mailand,,3,,73D700,FFFFFF
+FLIXBUS:125,FLIXBUS,FlixBus,Leipzig - Berlin - Göhren,,3,,73D700,FFFFFF
+FLIXBUS:1260,FLIXBUS,FlixBus,Warszawa - Kraków - Budapest,,3,,73D700,FFFFFF
+FLIXBUS:1262,FLIXBUS,FlixBus,Warszawa - Kraków - Kosice,,3,,73D700,FFFFFF
+FLIXBUS:127,FLIXBUS,FlixBus,Bottrop - München,,3,,73D700,FFFFFF
+FLIXBUS:1271,FLIXBUS,FlixBus,Warszawa - Kielce - Rzeszów,,3,,73D700,FFFFFF
+FLIXBUS:128,FLIXBUS,FlixBus,München - Aachen - Maastricht,,3,,73D700,FFFFFF
+FLIXBUS:1281,FLIXBUS,FlixBus,Warszawa - Katowice - Rybnik,,3,,73D700,FFFFFF
+FLIXBUS:129,FLIXBUS,FlixBus,München - Leipzig - Hamburg,,3,,73D700,FFFFFF
+FLIXBUS:1301,FLIXBUS,FlixBus,Warszawa - Wrocław - Kudowa Zdroj - Praha,,3,,73D700,FFFFFF
+FLIXBUS:1302,FLIXBUS,FlixBus,Warszawa - Wrocław - Wałbrzych,,3,,73D700,FFFFFF
+FLIXBUS:1303,FLIXBUS,FlixBus,Warszawa - Wrocław - Karpacz,,3,,73D700,FFFFFF
+FLIXBUS:1304,FLIXBUS,FlixBus,Warszawa - Wrocław - Dresden,,3,,73D700,FFFFFF
+FLIXBUS:131,FLIXBUS,FlixBus,Berlin - Meppen - Groningen,,3,,73D700,FFFFFF
+FLIXBUS:1320,FLIXBUS,FlixBus,Warszawa - Poznań - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:1321,FLIXBUS,FlixBus,Warszawa - Łódź - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:1340,FLIXBUS,FlixBus,Warszawa - Poznań - Szczecin,,3,,73D700,FFFFFF
+FLIXBUS:135,FLIXBUS,FlixBus,Berlin - Brunswick - Frankfurt,,3,,73D700,FFFFFF
+FLIXBUS:1351,FLIXBUS,FlixBus,Warszawa - Toruń - Bydgoszcz,,3,,73D700,FFFFFF
+FLIXBUS:1360,FLIXBUS,FlixBus,Berlin - Wroclaw - Krakow - Przemysl,,3,,73D700,FFFFFF
+FLIXBUS:1362,FLIXBUS,FlixBus,Szczecin - Wroclaw - Krakow - Zakopane,,3,,73D700,FFFFFF
+FLIXBUS:1363,FLIXBUS,FlixBus,Wroclaw - Krakow - Zakopane,,3,,73D700,FFFFFF
+FLIXBUS:1368,FLIXBUS,FlixBus,Kraków - Katowice airport - Częstochowa,,3,,73D700,FFFFFF
+FLIXBUS:1369,FLIXBUS,FlixBus,Cieszyn - Katowice - Krakow,,3,,73D700,FFFFFF
+FLIXBUS:138,FLIXBUS,FlixBus,Berlin - Bonn,,3,,73D700,FFFFFF
+FLIXBUS:141,FLIXBUS,FlixBus,Berlin - R - M -Chur,,3,,73D700,FFFFFF
+FLIXBUS:142,FLIXBUS,FlixBus,Berlin - Nürnberg - Stuttgart - Karlsruhe,,3,,73D700,FFFFFF
+FLIXBUS:144,FLIXBUS,FlixBus,Berlin - Bremen - Emden,,3,,73D700,FFFFFF
+FLIXBUS:1455,FLIXBUS,FlixBus,Bundle with line 455,,3,,73D700,FFFFFF
+FLIXBUS:147,FLIXBUS,FlixBus,Gotha - Berlin - Warnemünde,,3,,73D700,FFFFFF
+FLIXBUS:148,FLIXBUS,FlixBus,Berlin - Ahlbeck,,3,,73D700,FFFFFF
+FLIXBUS:149,FLIXBUS,FlixBus,Flensburg - Rostock,,3,,73D700,FFFFFF
+FLIXBUS:150,FLIXBUS,FlixBus,Berlin - Hamburg - Flensburg,,3,,73D700,FFFFFF
+FLIXBUS:151,FLIXBUS,FlixBus,Berlin - Brunswick - Hildesheim,,3,,73D700,FFFFFF
+FLIXBUS:152,FLIXBUS,FlixBus,Berlin-Bernburg,,3,,73D700,FFFFFF
+FLIXBUS:153,FLIXBUS,FlixBus,B-HH-St. Peter-Ording,,3,,73D700,FFFFFF
+FLIXBUS:154,FLIXBUS,FlixBus,Berlin - Thüringen - Düsseldorf,,3,,73D700,FFFFFF
+FLIXBUS:1551,FLIXBUS,FlixBus,Fermo - Rome,,3,,73D700,FFFFFF
+FLIXBUS:1553,FLIXBUS,FlixBus,Macerata - Rome,,3,,73D700,FFFFFF
+FLIXBUS:1554,FLIXBUS,FlixBus,Ancona - Rome,,3,,73D700,FFFFFF
+FLIXBUS:1556,FLIXBUS,FlixBus,Ancona - Napoli,,3,,73D700,FFFFFF
+FLIXBUS:1559,FLIXBUS,FlixBus,(Feeder Line) Macerata - Località S. Giovanni,,3,,73D700,FFFFFF
+FLIXBUS:1564,FLIXBUS,FlixBus,Campania - Molise (Biregionale),,3,,73D700,FFFFFF
+FLIXBUS:1589,FLIXBUS,FlixBus,Sala Consilina - Naples,,3,,73D700,FFFFFF
+FLIXBUS:159,FLIXBUS,FlixBus,Hannover-Magdeburg-Berlin Alex,,3,,73D700,FFFFFF
+FLIXBUS:160,FLIXBUS,FlixBus,Berlin - Dresden,,3,,73D700,FFFFFF
+FLIXBUS:161,FLIXBUS,FlixBus,(Heidelberg) - Darmstadt - Bratislava,,3,,73D700,FFFFFF
+FLIXBUS:162,FLIXBUS,FlixBus,Wien - Klagenfurt,,3,,73D700,FFFFFF
+FLIXBUS:163,FLIXBUS,FlixBus,München - Füssen,,3,,73D700,FFFFFF
+FLIXBUS:164,FLIXBUS,FlixBus,Berlin - Brunswick - Hamburg,,3,,73D700,FFFFFF
+FLIXBUS:167,FLIXBUS,FlixBus,Düsseldorf - Prague,,3,,73D700,FFFFFF
+FLIXBUS:170,FLIXBUS,FlixBus,Dresden - Berlin Alexanderplatz - Göhren,,3,,73D700,FFFFFF
+FLIXBUS:1701,FLIXBUS,FlixBus,Rennes - Nantes,,3,,73D700,FFFFFF
+FLIXBUS:1704,FLIXBUS,FlixBus,Paris multi stops - Nantes,,3,,73D700,FFFFFF
+FLIXBUS:172,FLIXBUS,FlixBus,Hannover - Hamburg -  Aarhus,,3,,73D700,FFFFFF
+FLIXBUS:1722,FLIXBUS,FlixBus,Caen - Rennes - Nantes,,3,,73D700,FFFFFF
+FLIXBUS:1725,FLIXBUS,FlixBus,Geneva - Geneva GVA ✈ - Annecy - Turin,,3,,73D700,FFFFFF
+FLIXBUS:173,FLIXBUS,FlixBus,Oldenburg - Kopenhagen,,3,,73D700,FFFFFF
+FLIXBUS:1730,FLIXBUS,FlixBus,Marseille - Lyon - Dijon,,3,,73D700,FFFFFF
+FLIXBUS:1733,FLIXBUS,FlixBus,Tours - Paris CDG ✈,,3,,73D700,FFFFFF
+FLIXBUS:1735,FLIXBUS,FlixBus,Châteauroux - Orléans - Paris,,3,,73D700,FFFFFF
+FLIXBUS:1737,FLIXBUS,FlixBus,Dijon/Auxerre - Paris Bercy,,3,,73D700,FFFFFF
+FLIXBUS:1739,FLIXBUS,FlixBus,Grenoble - Annecy - Geneva - Geneva GVA ✈ - Lausanne,,3,,73D700,FFFFFF
+FLIXBUS:174,FLIXBUS,FlixBus,Aachen - Rostock,,3,,73D700,FFFFFF
+FLIXBUS:175,FLIXBUS,FlixBus,Hannover - AMS - Rotterdam,,3,,73D700,FFFFFF
+FLIXBUS:1751,FLIXBUS,FlixBus,Paris Bercy - Lille,,3,,73D700,FFFFFF
+FLIXBUS:1752,FLIXBUS,FlixBus,Caen - Paris Levallois - Paris CDG ✈,,3,,73D700,FFFFFF
+FLIXBUS:1753,FLIXBUS,FlixBus,Boulogne-sur-Mer - Dunkerque - Bruges - Brussels,,3,,73D700,FFFFFF
+FLIXBUS:1754,FLIXBUS,FlixBus,Amiens - Paris La Défense,,3,,73D700,FFFFFF
+FLIXBUS:1755,FLIXBUS,FlixBus,Lille - Paris Bercy -  Massy,,3,,73D700,FFFFFF
+FLIXBUS:1757,FLIXBUS,FlixBus,Lille - Paris CDG ✈ - Paris La Defense/Levallois,,3,,73D700,FFFFFF
+FLIXBUS:1758,FLIXBUS,FlixBus,Châlons-en-Champagne - Reims - Paris - Paris CDG,,3,,73D700,FFFFFF
+FLIXBUS:1770,FLIXBUS,FlixBus,Reims - Lille - Brussels,,3,,73D700,FFFFFF
+FLIXBUS:1772,FLIXBUS,FlixBus,Paris - Laval - Rennes - Vannes,,3,,73D700,FFFFFF
+FLIXBUS:1778,FLIXBUS,FlixBus,Nantes - Tours - Orléans,,3,,73D700,FFFFFF
+FLIXBUS:1781,FLIXBUS,FlixBus,Lille - Paris Bercy - Massy,,3,,73D700,FFFFFF
+FLIXBUS:1782,FLIXBUS,FlixBus,Paris - Rennes - Lorient/Quimper,,3,,73D700,FFFFFF
+FLIXBUS:1783,FLIXBUS,FlixBus,Ferrol - La Coruna - Porto,,3,,73D700,FFFFFF
+FLIXBUS:1792,FLIXBUS,FlixBus,Paris-Rennes-Vannes,,3,,73D700,FFFFFF
+FLIXBUS:1799,FLIXBUS,FlixBus,Mulhouse - Besancon - Paris,,3,,73D700,FFFFFF
+FLIXBUS:180,FLIXBUS,FlixBus,Düsseldorf - Maastricht - Liège,,3,,73D700,FFFFFF
+FLIXBUS:186,FLIXBUS,FlixBus,Oberstdorf - München - Bamberg,,3,,73D700,FFFFFF
+FLIXBUS:189,FLIXBUS,FlixBus,Berlin - Ulm,,3,,73D700,FFFFFF
+FLIXBUS:1920,FLIXBUS,FlixBus,Bucharest -  London,,3,,73D700,FFFFFF
+FLIXBUS:1921,FLIXBUS,FlixBus,Bucharest - Grenoble,,3,,73D700,FFFFFF
+FLIXBUS:1922,FLIXBUS,FlixBus,Bucharest - Marseille - Barcelona,,3,,73D700,FFFFFF
+FLIXBUS:1923,FLIXBUS,FlixBus,Bucharest - Rennes,,3,,73D700,FFFFFF
+FLIXBUS:1924,FLIXBUS,FlixBus,Bucharest - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:1925,FLIXBUS,FlixBus,Bucharest - Dortmund,,3,,73D700,FFFFFF
+FLIXBUS:1926,FLIXBUS,FlixBus,Bucharest - Hamburg - Meppen,,3,,73D700,FFFFFF
+FLIXBUS:1929,FLIXBUS,FlixBus,Bucharest - Brussels,,3,,73D700,FFFFFF
+FLIXBUS:1940,FLIXBUS,FlixBus,Varna - Bucharest (Feeder line),,3,,73D700,FFFFFF
+FLIXBUS:1941,FLIXBUS,FlixBus,Tulcea - Bucharest (Feeder line),,3,,73D700,FFFFFF
+FLIXBUS:1942,FLIXBUS,FlixBus,Galati - Bucharest (Feeder line),,3,,73D700,FFFFFF
+FLIXBUS:1943,FLIXBUS,FlixBus,Vaslui - Ploiesti (Feeder line),,3,,73D700,FFFFFF
+FLIXBUS:1944,FLIXBUS,FlixBus,Pascani -  Brasov (Feeder line),,3,,73D700,FFFFFF
+FLIXBUS:1945,FLIXBUS,FlixBus,Sighisoara - Sibiu (Feeder line),,3,,73D700,FFFFFF
+FLIXBUS:1946,FLIXBUS,FlixBus,Targoviste  - Sibiu (Feeder line),,3,,73D700,FFFFFF
+FLIXBUS:1947,FLIXBUS,FlixBus,Reghin - Sebes (Feeder line),,3,,73D700,FFFFFF
+FLIXBUS:1948,FLIXBUS,FlixBus,Alexandria - Deva (Feeder line),,3,,73D700,FFFFFF
+FLIXBUS:1949,FLIXBUS,FlixBus,Iasi - Arad (Feeder line),,3,,73D700,FFFFFF
+FLIXBUS:1950,FLIXBUS,FlixBus,Arad - Timisoara - Sofia (feeder line),,3,,73D700,FFFFFF
+FLIXBUS:1951,FLIXBUS,FlixBus,Sighetu Marmatiei - Arad (Feeder line),,3,,73D700,FFFFFF
+FLIXBUS:1952,FLIXBUS,FlixBus,Zalau - Arad (Feeder line),,3,,73D700,FFFFFF
+FLIXBUS:198,FLIXBUS,FlixBus,Tübingen - Hamburg,,3,,73D700,FFFFFF
+FLIXBUS:205,FLIXBUS,FlixBus,Wolfsburg - München,,3,,73D700,FFFFFF
+FLIXBUS:206,FLIXBUS,FlixBus,Loerrach - Basel - Munich,,3,,73D700,FFFFFF
+FLIXBUS:207,FLIXBUS,FlixBus,Mailand  - Düsseldorf,,3,,73D700,FFFFFF
+FLIXBUS:208,FLIXBUS,FlixBus,Freiburg - Basel Euroairport,,3,,73D700,FFFFFF
+FLIXBUS:210,FLIXBUS,FlixBus,F - INN,,3,,73D700,FFFFFF
+FLIXBUS:211,FLIXBUS,FlixBus,Amsterdam-Aachen-Trier-Basel,,3,,73D700,FFFFFF
+FLIXBUS:215,FLIXBUS,FlixBus,Würzburg - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:217,FLIXBUS,FlixBus,Groningen/Münster - Stuttgart Airport/Karlsruhe,,3,,73D700,FFFFFF
+FLIXBUS:220,FLIXBUS,FlixBus,Dresden - Erfurt - Mannheim,,3,,73D700,FFFFFF
+FLIXBUS:221,FLIXBUS,FlixBus,Nuremberg - Basel,,3,,73D700,FFFFFF
+FLIXBUS:222,FLIXBUS,FlixBus,Frankfurt - Bern - Montreux - Turin,,3,,73D700,FFFFFF
+FLIXBUS:225,FLIXBUS,FlixBus,Leipzig - Berlin - Kühlungsborn,,3,,73D700,FFFFFF
+FLIXBUS:227,FLIXBUS,FlixBus,Dortmund / Frankfurt - Karlsruhe - München,,3,,73D700,FFFFFF
+FLIXBUS:229,FLIXBUS,FlixBus,München - Erfurt - Eisenach,,3,,73D700,FFFFFF
+FLIXBUS:235,FLIXBUS,FlixBus,Berlin - Coblenz,,3,,73D700,FFFFFF
+FLIXBUS:236,FLIXBUS,FlixBus,Essen - Saarbrücken - München,,3,,73D700,FFFFFF
+FLIXBUS:239,FLIXBUS,FlixBus,Berlin - Görlitz,,3,,73D700,FFFFFF
+FLIXBUS:244,FLIXBUS,FlixBus,Berlin - Groningen,,3,,73D700,FFFFFF
+FLIXBUS:248,FLIXBUS,FlixBus,Berlin ZOB - Zingst,,3,,73D700,FFFFFF
+FLIXBUS:249,FLIXBUS,FlixBus,Hannover - Greifswald,,3,,73D700,FFFFFF
+FLIXBUS:250,FLIXBUS,FlixBus,Berlin - Hamburg - Cuxhaven,,3,,73D700,FFFFFF
+FLIXBUS:260,FLIXBUS,FlixBus,Berlin - Prague - Budapest,,3,,73D700,FFFFFF
+FLIXBUS:262,FLIXBUS,FlixBus,Linz - Graz,,3,,73D700,FFFFFF
+FLIXBUS:264,FLIXBUS,FlixBus,Göttingen - Brussels,,3,,73D700,FFFFFF
+FLIXBUS:267,FLIXBUS,FlixBus,Oldenburg - Prague,,3,,73D700,FFFFFF
+FLIXBUS:268,FLIXBUS,FlixBus,Den Haag - Düsseldorf - Frankfurt,,3,,73D700,FFFFFF
+FLIXBUS:270,FLIXBUS,FlixBus,Dresden - Berlin Alexanderplatz - Kühlungsborn,,3,,73D700,FFFFFF
+FLIXBUS:272,FLIXBUS,FlixBus,Hannover - Kiel/Lübeck,,3,,73D700,FFFFFF
+FLIXBUS:275,FLIXBUS,FlixBus,Bremen - Kiel,,3,,73D700,FFFFFF
+FLIXBUS:277,FLIXBUS,FlixBus,Stuttgart - Venice,,3,,73D700,FFFFFF
+FLIXBUS:280,FLIXBUS,FlixBus,Düsseldorf - Antwerpen - (Lille),,3,,73D700,FFFFFF
+FLIXBUS:283,FLIXBUS,FlixBus,Prag - Regensburg - Augsburg - Zürich,,3,,73D700,FFFFFF
+FLIXBUS:284,FLIXBUS,FlixBus,Tübingen-Nürnberg-Prag,,3,,73D700,FFFFFF
+FLIXBUS:289,FLIXBUS,FlixBus,Berlin - Amberg/ Ansbach,,3,,73D700,FFFFFF
+FLIXBUS:299,FLIXBUS,FlixBus,BNO- LUX - SB -  STB - FR - BAS - ZH - LUZ,,3,,73D700,FFFFFF
+FLIXBUS:305,FLIXBUS,FlixBus,Hamburg-Erfurt,,3,,73D700,FFFFFF
+FLIXBUS:306,FLIXBUS,FlixBus,Ulm - Stuttgart - Lyon,,3,,73D700,FFFFFF
+FLIXBUS:310,FLIXBUS,FlixBus,Bochum/Frankfurt - München/Passau,,3,,73D700,FFFFFF
+FLIXBUS:320,FLIXBUS,FlixBus,Dresden - Saarbrücken,,3,,73D700,FFFFFF
+FLIXBUS:322,FLIXBUS,FlixBus,Jena - Frankfurt - Freiburg - Interlaken - Grindelwald,,3,,73D700,FFFFFF
+FLIXBUS:325,FLIXBUS,FlixBus,Berlin - Leipzig - Dresden,,3,,73D700,FFFFFF
+FLIXBUS:328,FLIXBUS,FlixBus,Frankfurt - Aachen - Lille,,3,,73D700,FFFFFF
+FLIXBUS:349,FLIXBUS,FlixBus,Berlin - Wismar (-Tarnewitz),,3,,73D700,FFFFFF
+FLIXBUS:350,FLIXBUS,FlixBus,Berlin - Hamburg - Lübecker Bucht,,3,,73D700,FFFFFF
+FLIXBUS:354,FLIXBUS,FlixBus,Berlin-Saalfeld,,3,,73D700,FFFFFF
+FLIXBUS:361,FLIXBUS,FlixBus,Frankfurt - Essen,,3,,73D700,FFFFFF
+FLIXBUS:362,FLIXBUS,FlixBus,Graz - Salzburg,,3,,73D700,FFFFFF
+FLIXBUS:366,FLIXBUS,FlixBus,Prague - Vienna,,3,,73D700,FFFFFF
+FLIXBUS:370,FLIXBUS,FlixBus,Chemnitz - Dresden - Berlin Alexanderplatz,,3,,73D700,FFFFFF
+FLIXBUS:373,FLIXBUS,FlixBus,Hannover Messe/Laatzen - Hamburg,,3,,73D700,FFFFFF
+FLIXBUS:374,FLIXBUS,FlixBus,Bremen - Hamburg - Fehmarn,,3,,73D700,FFFFFF
+FLIXBUS:375,FLIXBUS,FlixBus,Oldenburg - Lübeck,,3,,73D700,FFFFFF
+FLIXBUS:383,FLIXBUS,FlixBus,München - Passau - Prag,,3,,73D700,FFFFFF
+FLIXBUS:400,FLIXBUS,FlixBus,Milano-Venezia,,3,,73D700,FFFFFF
+FLIXBUS:401,FLIXBUS,FlixBus,Venice - Zürich,,3,,73D700,FFFFFF
+FLIXBUS:402,FLIXBUS,FlixBus,Torino-Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:403,FLIXBUS,FlixBus,Torino-Budapest,,3,,73D700,FFFFFF
+FLIXBUS:404,FLIXBUS,FlixBus,Turin - Marseille,,3,,73D700,FFFFFF
+FLIXBUS:405,FLIXBUS,FlixBus,Lousanne - Ljubljana,,3,,73D700,FFFFFF
+FLIXBUS:406,FLIXBUS,FlixBus,Rijeka - Nice,,3,,73D700,FFFFFF
+FLIXBUS:407,FLIXBUS,FlixBus,Turin - Meran,,3,,73D700,FFFFFF
+FLIXBUS:408,FLIXBUS,FlixBus,Genoa - Bozen,,3,,73D700,FFFFFF
+FLIXBUS:409,FLIXBUS,FlixBus,Zurich-Venice-Rijeka,,3,,73D700,FFFFFF
+FLIXBUS:410,FLIXBUS,FlixBus,Udine-Torino,,3,,73D700,FFFFFF
+FLIXBUS:411,FLIXBUS,FlixBus,Cortina d'Ampezzo-Milano,,3,,73D700,FFFFFF
+FLIXBUS:413,FLIXBUS,FlixBus,Cuneo-Venezia,,3,,73D700,FFFFFF
+FLIXBUS:414,FLIXBUS,FlixBus,Bellinzona - Verona,,3,,73D700,FFFFFF
+FLIXBUS:415,FLIXBUS,FlixBus,Bergamo-Perugia-Pescara,,3,,73D700,FFFFFF
+FLIXBUS:416,FLIXBUS,FlixBus,Treviso-Torino,,3,,73D700,FFFFFF
+FLIXBUS:417,FLIXBUS,FlixBus,Udine - Bern,,3,,73D700,FFFFFF
+FLIXBUS:418,FLIXBUS,FlixBus,Pula-Venice-Bologna,,3,,73D700,FFFFFF
+FLIXBUS:419,FLIXBUS,FlixBus,Pula-Milano,,3,,73D700,FFFFFF
+FLIXBUS:420,FLIXBUS,FlixBus,Milan - Taranto,,3,,73D700,FFFFFF
+FLIXBUS:421,FLIXBUS,FlixBus,Zürich-Milano-Pescara,,3,,73D700,FFFFFF
+FLIXBUS:423,FLIXBUS,FlixBus,Torino-Ferrara (Cesenatico summer),,3,,73D700,FFFFFF
+FLIXBUS:424,FLIXBUS,FlixBus,Cuneo - Milano - Innsbruck,,3,,73D700,FFFFFF
+FLIXBUS:427,FLIXBUS,FlixBus,Verona-Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:429,FLIXBUS,FlixBus,Torino-Campobasso,,3,,73D700,FFFFFF
+FLIXBUS:433,FLIXBUS,FlixBus,Bologna-Pescara-Salerno,,3,,73D700,FFFFFF
+FLIXBUS:434,FLIXBUS,FlixBus,Florence - Bologna - Lecce,,3,,73D700,FFFFFF
+FLIXBUS:442,FLIXBUS,FlixBus,Pisa-Taranto,,3,,73D700,FFFFFF
+FLIXBUS:443,FLIXBUS,FlixBus,Siena-Lecce,,3,,73D700,FFFFFF
+FLIXBUS:450,FLIXBUS,FlixBus,München-Riva del Garda-Torri del Benaco,,3,,73D700,FFFFFF
+FLIXBUS:451,FLIXBUS,FlixBus,München-Bardolino-Sirmione,,3,,73D700,FFFFFF
+FLIXBUS:453,FLIXBUS,FlixBus,München - Ancona,,3,,73D700,FFFFFF
+FLIXBUS:454,FLIXBUS,FlixBus,Bologna-Munich-Prague,,3,,73D700,FFFFFF
+FLIXBUS:455,FLIXBUS,FlixBus,Milano-Nuremberg,,3,,73D700,FFFFFF
+FLIXBUS:470,FLIXBUS,FlixBus,Turin - Zurich,,3,,73D700,FFFFFF
+FLIXBUS:471,FLIXBUS,FlixBus,Aosta-Bergamo,,3,,73D700,FFFFFF
+FLIXBUS:472,FLIXBUS,FlixBus,Verona - Geneve,,3,,73D700,FFFFFF
+FLIXBUS:481,FLIXBUS,FlixBus,Genoa - Venice,,3,,73D700,FFFFFF
+FLIXBUS:482,FLIXBUS,FlixBus,Venice - Montpellier,,3,,73D700,FFFFFF
+FLIXBUS:491,FLIXBUS,FlixBus,Munich - Venice,,3,,73D700,FFFFFF
+FLIXBUS:492,FLIXBUS,FlixBus,München - Cannes,,3,,73D700,FFFFFF
+FLIXBUS:494,FLIXBUS,FlixBus,Bozen - Nice,,3,,73D700,FFFFFF
+FLIXBUS:500,FLIXBUS,FlixBus,Milan - Genoa - Rome,,3,,73D700,FFFFFF
+FLIXBUS:501,FLIXBUS,FlixBus,Turin - Florence - Naples,,3,,73D700,FFFFFF
+FLIXBUS:503,FLIXBUS,FlixBus,Turin - Rome,,3,,73D700,FFFFFF
+FLIXBUS:504,FLIXBUS,FlixBus,Turin - Florence - Ancona,,3,,73D700,FFFFFF
+FLIXBUS:505,FLIXBUS,FlixBus,Genoa - Udine,,3,,73D700,FFFFFF
+FLIXBUS:507,FLIXBUS,FlixBus,Geneva - Milan - Rimini,,3,,73D700,FFFFFF
+FLIXBUS:509,FLIXBUS,FlixBus,Pisa-Firenze-Pescara,,3,,73D700,FFFFFF
+FLIXBUS:510,FLIXBUS,FlixBus,Genoa - Rome,,3,,73D700,FFFFFF
+FLIXBUS:512,FLIXBUS,FlixBus,Florence - FCO ✈ - Rome,,3,,73D700,FFFFFF
+FLIXBUS:513,FLIXBUS,FlixBus,Savona - Firenze - Siena,,3,,73D700,FFFFFF
+FLIXBUS:516,FLIXBUS,FlixBus,Siena - Turin,,3,,73D700,FFFFFF
+FLIXBUS:518,FLIXBUS,FlixBus,Naples - Milan,,3,,73D700,FFFFFF
+FLIXBUS:519,FLIXBUS,FlixBus,Rome - Milan - Zürich,,3,,73D700,FFFFFF
+FLIXBUS:520,FLIXBUS,FlixBus,Milan - Florence - Rome,,3,,73D700,FFFFFF
+FLIXBUS:522,FLIXBUS,FlixBus,(Milano-)Bergamo-Roma,,3,,73D700,FFFFFF
+FLIXBUS:527,FLIXBUS,FlixBus,Zürich - Milan - Florence,,3,,73D700,FFFFFF
+FLIXBUS:528,FLIXBUS,FlixBus,Bergamo-Siena,,3,,73D700,FFFFFF
+FLIXBUS:529,FLIXBUS,FlixBus,Monza - Assisi,,3,,73D700,FFFFFF
+FLIXBUS:531,FLIXBUS,FlixBus,Munich-Rome,,3,,73D700,FFFFFF
+FLIXBUS:532,FLIXBUS,FlixBus,Bergamo - Naples,,3,,73D700,FFFFFF
+FLIXBUS:533,FLIXBUS,FlixBus,Treviso-Venice Mestre-Rome,,3,,73D700,FFFFFF
+FLIXBUS:534,FLIXBUS,FlixBus,Bolzano-Florence-Rome,,3,,73D700,FFFFFF
+FLIXBUS:536,FLIXBUS,FlixBus,Venice-Florence,,3,,73D700,FFFFFF
+FLIXBUS:537,FLIXBUS,FlixBus,Florence-Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:538,FLIXBUS,FlixBus,Perugia - Napoli - Salerno,,3,,73D700,FFFFFF
+FLIXBUS:539,FLIXBUS,FlixBus,Milano - Bologna - Perugia - Roma,,3,,73D700,FFFFFF
+FLIXBUS:540,FLIXBUS,FlixBus,Trieste-Venice Mestre-Rome-Benevento,,3,,73D700,FFFFFF
+FLIXBUS:543,FLIXBUS,FlixBus,Vicenza - Salerno,,3,,73D700,FFFFFF
+FLIXBUS:550,FLIXBUS,FlixBus,Pescara  - Roma - FCO,,3,,73D700,FFFFFF
+FLIXBUS:551,FLIXBUS,FlixBus,Roma - Abruzzo - Marche,,3,,73D700,FFFFFF
+FLIXBUS:552,FLIXBUS,FlixBus,Termoli - Rom,,3,,73D700,FFFFFF
+FLIXBUS:554,FLIXBUS,FlixBus,Ancona - Rom,,3,,73D700,FFFFFF
+FLIXBUS:556,FLIXBUS,FlixBus,Ancona - Napoli,,3,,73D700,FFFFFF
+FLIXBUS:557,FLIXBUS,FlixBus,Pescara - Foggia - Napoli Airport,,3,,73D700,FFFFFF
+FLIXBUS:558,FLIXBUS,FlixBus,Pescara - Napoli - Salerno,,3,,73D700,FFFFFF
+FLIXBUS:560,FLIXBUS,FlixBus,Roma-Potenza,,3,,73D700,FFFFFF
+FLIXBUS:561,FLIXBUS,FlixBus,Assisi-Melfi,,3,,73D700,FFFFFF
+FLIXBUS:562,FLIXBUS,FlixBus,Rome -  Taranto,,3,,73D700,FFFFFF
+FLIXBUS:563,FLIXBUS,FlixBus,Roma-Sorrento,,3,,73D700,FFFFFF
+FLIXBUS:564,FLIXBUS,FlixBus,FCO - Rome - Campobasso - Naples,,3,,73D700,FFFFFF
+FLIXBUS:565,FLIXBUS,FlixBus,Florence-Rome-Vieste/Manfredonia,,3,,73D700,FFFFFF
+FLIXBUS:567,FLIXBUS,FlixBus,Rome-Bari-Martina Franca,,3,,73D700,FFFFFF
+FLIXBUS:568,FLIXBUS,FlixBus,Rome-Avellino-Bari/Taranto,,3,,73D700,FFFFFF
+FLIXBUS:570,FLIXBUS,FlixBus,Rome-Taranto-Lecce,,3,,73D700,FFFFFF
+FLIXBUS:571,FLIXBUS,FlixBus,Naples - Bari - Matera,,3,,73D700,FFFFFF
+FLIXBUS:572,FLIXBUS,FlixBus,Lecce-Bari-Rome,,3,,73D700,FFFFFF
+FLIXBUS:573,FLIXBUS,FlixBus,Rome-Naples-Bari-Lecce,,3,,73D700,FFFFFF
+FLIXBUS:574,FLIXBUS,FlixBus,Rome Fiumicino-Rome-Foggia-Apricena,,3,,73D700,FFFFFF
+FLIXBUS:575,FLIXBUS,FlixBus,Manfredonia-Foggia-Rome,,3,,73D700,FFFFFF
+FLIXBUS:576,FLIXBUS,FlixBus,Florence - Bari,,3,,73D700,FFFFFF
+FLIXBUS:578,FLIXBUS,FlixBus,Naples-Bari-Lecce,,3,,73D700,FFFFFF
+FLIXBUS:579,FLIXBUS,FlixBus,Rome - Bari,,3,,73D700,FFFFFF
+FLIXBUS:581,FLIXBUS,FlixBus,Crotone - Naples,,3,,73D700,FFFFFF
+FLIXBUS:582,FLIXBUS,FlixBus,Cariati - Catania,,3,,73D700,FFFFFF
+FLIXBUS:585,FLIXBUS,FlixBus,Cariati - Naples,,3,,73D700,FFFFFF
+FLIXBUS:587,FLIXBUS,FlixBus,Crotone - San Giovanni Rotondo,,3,,73D700,FFFFFF
+FLIXBUS:588,FLIXBUS,FlixBus,Cariati - Rome - Perugia,,3,,73D700,FFFFFF
+FLIXBUS:589,FLIXBUS,FlixBus,Crotone - Rome,,3,,73D700,FFFFFF
+FLIXBUS:600,FLIXBUS,FlixBus,Oslo - Stockholm,,3,,73D700,FFFFFF
+FLIXBUS:600S,FLIXBUS,FlixBus,Stockholm - Oslo,,3,,73D700,FFFFFF
+FLIXBUS:601,FLIXBUS,FlixBus,Uppsala - Göteborg,,3,,73D700,FFFFFF
+FLIXBUS:602,FLIXBUS,FlixBus,Copenhagen - Stockholm,,3,,73D700,FFFFFF
+FLIXBUS:603,FLIXBUS,FlixBus,Malmö - Oslo,,3,,73D700,FFFFFF
+FLIXBUS:609,FLIXBUS,FlixBus,Airportshuttle Stockholm Arlanda - Västerås,,3,,73D700,FFFFFF
+FLIXBUS:612,FLIXBUS,FlixBus,Uppsala - Kalmar,,3,,73D700,FFFFFF
+FLIXBUS:613,FLIXBUS,FlixBus,Copenhagen-Oslo,,3,,73D700,FFFFFF
+FLIXBUS:613S,FLIXBUS,FlixBus,Oslo-Copenhagen,,3,,73D700,FFFFFF
+FLIXBUS:620,FLIXBUS,FlixBus,Aarhus-Copenhagen,,3,,73D700,FFFFFF
+FLIXBUS:621,FLIXBUS,FlixBus,Aalborg - Randers - Aarhus,,3,,73D700,FFFFFF
+FLIXBUS:622,FLIXBUS,FlixBus,Nykøbing M. - Herning - Fredecia,,3,,73D700,FFFFFF
+FLIXBUS:625,FLIXBUS,FlixBus,Esbjerg - Kolding - Copenhagen,,3,,73D700,FFFFFF
+FLIXBUS:627,FLIXBUS,FlixBus,Sønderborg - Aabenraa - Haderslev - København,,3,,73D700,FFFFFF
+FLIXBUS:628,FLIXBUS,FlixBus,Rudkøbing  - Svendborg - Nyborg,,3,,73D700,FFFFFF
+FLIXBUS:629,FLIXBUS,FlixBus,Aarhus - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:631,FLIXBUS,FlixBus,Holstebro - Copenhagen,,3,,73D700,FFFFFF
+FLIXBUS:632,FLIXBUS,FlixBus,Viborg - Silkeborg - Copenhagen,,3,,73D700,FFFFFF
+FLIXBUS:633,FLIXBUS,FlixBus,Skanderborg - Horsens - Vejle - Fredericia - Middelfart - Copenhagen,,3,,73D700,FFFFFF
+FLIXBUS:634,FLIXBUS,FlixBus,Helsingor-Aarhus,,3,,73D700,FFFFFF
+FLIXBUS:700,FLIXBUS,FlixBus,Paris - London,,3,,73D700,FFFFFF
+FLIXBUS:701,FLIXBUS,FlixBus,Nantes - Bordeaux - Toulouse,,3,,73D700,FFFFFF
+FLIXBUS:702,FLIXBUS,FlixBus,Paris - Rennes - Quimper,,3,,73D700,FFFFFF
+FLIXBUS:703,FLIXBUS,FlixBus,Paris - Bordeaux - Biarritz,,3,,73D700,FFFFFF
+FLIXBUS:704,FLIXBUS,FlixBus,Paris-Nantes/Vannes,,3,,73D700,FFFFFF
+FLIXBUS:705,FLIXBUS,FlixBus,Paris - Toulouse,,3,,73D700,FFFFFF
+FLIXBUS:706,FLIXBUS,FlixBus,Bordeaux - Clermont-Ferrand - Lyon,,3,,73D700,FFFFFF
+FLIXBUS:709,FLIXBUS,FlixBus,Grenoble - Lyon - Paris,,3,,73D700,FFFFFF
+FLIXBUS:712,FLIXBUS,FlixBus,Nantes - Caen - Brussels,,3,,73D700,FFFFFF
+FLIXBUS:713,FLIXBUS,FlixBus,Brussels - Lille - Caen,,3,,73D700,FFFFFF
+FLIXBUS:714,FLIXBUS,FlixBus,Paris- Angers- (Les Sables d'Olonne),,3,,73D700,FFFFFF
+FLIXBUS:716,FLIXBUS,FlixBus,Toulouse - Clermont-Ferrand - Lyon,,3,,73D700,FFFFFF
+FLIXBUS:717,FLIXBUS,FlixBus,Paris - Orléans - Clermont-Ferrand,,3,,73D700,FFFFFF
+FLIXBUS:718,FLIXBUS,FlixBus,Bordeaux - Toulouse - Marseille - Hyères,,3,,73D700,FFFFFF
+FLIXBUS:719,FLIXBUS,FlixBus,Paris - Lyon - Montélimar,,3,,73D700,FFFFFF
+FLIXBUS:720,FLIXBUS,FlixBus,Grenoble - Lyon - Strasbourg - Stuttgart,,3,,73D700,FFFFFF
+FLIXBUS:721,FLIXBUS,FlixBus,Bordeaux - Barcelona,,3,,73D700,FFFFFF
+FLIXBUS:722,FLIXBUS,FlixBus,Ouistreham/Caen - Paris/Paris CDG✈,,3,,73D700,FFFFFF
+FLIXBUS:723,FLIXBUS,FlixBus,Paris-Poitiers-La Rochelle,,3,,73D700,FFFFFF
+FLIXBUS:724,FLIXBUS,FlixBus,Nantes - Clermont-Ferrand - Lyon - Grenoble,,3,,73D700,FFFFFF
+FLIXBUS:725,FLIXBUS,FlixBus,Paris - Orléans - Limoges - Tulle,,3,,73D700,FFFFFF
+FLIXBUS:726,FLIXBUS,FlixBus,Clermont-Ferrand - Lyon - Turin - Milan,,3,,73D700,FFFFFF
+FLIXBUS:727,FLIXBUS,FlixBus,Clermont-Ferrand - Paris,,3,,73D700,FFFFFF
+FLIXBUS:728,FLIXBUS,FlixBus,Genoa - Aix en Provence - Barcelona,,3,,73D700,FFFFFF
+FLIXBUS:729,FLIXBUS,FlixBus,Paris - Milan,,3,,73D700,FFFFFF
+FLIXBUS:730,FLIXBUS,FlixBus,Dijon - Lyon,,3,,73D700,FFFFFF
+FLIXBUS:732,FLIXBUS,FlixBus,Le Havre - Paris/Paris CDG ✈,,3,,73D700,FFFFFF
+FLIXBUS:733,FLIXBUS,FlixBus,Tours - Paris,,3,,73D700,FFFFFF
+FLIXBUS:734,FLIXBUS,FlixBus,Clermont-Ferrand - Saint-Etienne - Marseille,,3,,73D700,FFFFFF
+FLIXBUS:735,FLIXBUS,FlixBus,Paris - Orléans -Tours,,3,,73D700,FFFFFF
+FLIXBUS:737,FLIXBUS,FlixBus,Dijon-Auxerre-Paris,,3,,73D700,FFFFFF
+FLIXBUS:739,FLIXBUS,FlixBus,Genève - Annecy - Grenoble  - Marseille,,3,,73D700,FFFFFF
+FLIXBUS:740,FLIXBUS,FlixBus,Montpellier - Grenoble - Milan,,3,,73D700,FFFFFF
+FLIXBUS:741,FLIXBUS,FlixBus,Toulouse - Limoges - Poitiers - Nantes,,3,,73D700,FFFFFF
+FLIXBUS:742,FLIXBUS,FlixBus,Dieppe/Rouen - Paris/Paris CDG ✈,,3,,73D700,FFFFFF
+FLIXBUS:744,FLIXBUS,FlixBus,Grenoble - Turin,,3,,73D700,FFFFFF
+FLIXBUS:745,FLIXBUS,FlixBus,Madrid - Porto,,3,,73D700,FFFFFF
+FLIXBUS:747,FLIXBUS,FlixBus,Saint Etienne - Paris,,3,,73D700,FFFFFF
+FLIXBUS:748,FLIXBUS,FlixBus,Lyon - Toulouse - Zaragoza - Madrid,,3,,73D700,FFFFFF
+FLIXBUS:750,FLIXBUS,FlixBus,Strasbourg - Metz - Paris,,3,,73D700,FFFFFF
+FLIXBUS:752,FLIXBUS,FlixBus,Paris - Deauville - Cabourg,,3,,73D700,FFFFFF
+FLIXBUS:753,FLIXBUS,FlixBus,Dunkerque - Paris,,3,,73D700,FFFFFF
+FLIXBUS:755,FLIXBUS,FlixBus,Béthune - Arras - Paris,,3,,73D700,FFFFFF
+FLIXBUS:756,FLIXBUS,FlixBus,Sedan - Reims - Paris,,3,,73D700,FFFFFF
+FLIXBUS:757,FLIXBUS,FlixBus,Paris - Lille - Bruges,,3,,73D700,FFFFFF
+FLIXBUS:758,FLIXBUS,FlixBus,Épinal - Nancy - Reims - Paris,,3,,73D700,FFFFFF
+FLIXBUS:759,FLIXBUS,FlixBus,Paris -  Dijon - Lons/Genève,,3,,73D700,FFFFFF
+FLIXBUS:761,FLIXBUS,FlixBus,Lorient - Bordeaux,,3,,73D700,FFFFFF
+FLIXBUS:763,FLIXBUS,FlixBus,Troyes - Paris - Orléans,,3,,73D700,FFFFFF
+FLIXBUS:766,FLIXBUS,FlixBus,Annecy - Lyon,,3,,73D700,FFFFFF
+FLIXBUS:767,FLIXBUS,FlixBus,Paris - Saint-Etienne,,3,,73D700,FFFFFF
+FLIXBUS:768,FLIXBUS,FlixBus,Toulouse - Nice,,3,,73D700,FFFFFF
+FLIXBUS:770,FLIXBUS,FlixBus,Strasbourg - Nancy - Reims - Lille,,3,,73D700,FFFFFF
+FLIXBUS:771,FLIXBUS,FlixBus,Nancy - Tübingen,,3,,73D700,FFFFFF
+FLIXBUS:772,FLIXBUS,FlixBus,Paris - Caen - Saint Malo/Dinard,,3,,73D700,FFFFFF
+FLIXBUS:774,FLIXBUS,FlixBus,Nantes - Paris - Caen,,3,,73D700,FFFFFF
+FLIXBUS:775,FLIXBUS,FlixBus,Metz - Zurich,,3,,73D700,FFFFFF
+FLIXBUS:776,FLIXBUS,FlixBus,Clermont-Ferrand - Lyon - Lyon LYS ✈ - Grenoble,,3,,73D700,FFFFFF
+FLIXBUS:777,FLIXBUS,FlixBus,Grenoble - Lyon ✈,,3,,73D700,FFFFFF
+FLIXBUS:779,FLIXBUS,FlixBus,Paris - Chalon-sur-Saône - Annecy,,3,,73D700,FFFFFF
+FLIXBUS:780,FLIXBUS,FlixBus,Nancy - Frankfurt,,3,,73D700,FFFFFF
+FLIXBUS:781,FLIXBUS,FlixBus,Paris Bercy- Lille,,3,,73D700,FFFFFF
+FLIXBUS:782,FLIXBUS,FlixBus,Lille - Brussels/Brussels Zaventem,,3,,73D700,FFFFFF
+FLIXBUS:783,FLIXBUS,FlixBus,Paris - San Sebastián - Bilbao - Santiago de  Compostela - Porto,,3,,73D700,FFFFFF
+FLIXBUS:786,FLIXBUS,FlixBus,Toulouse - Porto,,3,,73D700,FFFFFF
+FLIXBUS:787,FLIXBUS,FlixBus,Saint-Etienne - Lyon LYS ✈ - Grenoble,,3,,73D700,FFFFFF
+FLIXBUS:788,FLIXBUS,FlixBus,Lyon - Barcelona,,3,,73D700,FFFFFF
+FLIXBUS:790,FLIXBUS,FlixBus,Saarbrücken - Metz - Paris - Tours,,3,,73D700,FFFFFF
+FLIXBUS:793,FLIXBUS,FlixBus,Paris - Bordeaux - Madrid - Lisbon,,3,,73D700,FFFFFF
+FLIXBUS:794,FLIXBUS,FlixBus,Madrid - Lisbon,,3,,73D700,FFFFFF
+FLIXBUS:798,FLIXBUS,FlixBus,Marseille - Milan,,3,,73D700,FFFFFF
+FLIXBUS:799,FLIXBUS,FlixBus,Clermont-Ferrand - Lyon - Aix-en-Provence - Nice,,3,,73D700,FFFFFF
+FLIXBUS:800,FLIXBUS,FlixBus,Amsterdam - Paris,,3,,73D700,FFFFFF
+FLIXBUS:801,FLIXBUS,FlixBus,Brussels - Paris,,3,,73D700,FFFFFF
+FLIXBUS:802,FLIXBUS,FlixBus,Amsterdam - Ghent - Lille - Paris,,3,,73D700,FFFFFF
+FLIXBUS:803,FLIXBUS,FlixBus,The Hague - Paris,,3,,73D700,FFFFFF
+FLIXBUS:804,FLIXBUS,FlixBus,Leeuwarden - Lille,,3,,73D700,FFFFFF
+FLIXBUS:810,FLIXBUS,FlixBus,Amsterdam - Brussels,,3,,73D700,FFFFFF
+FLIXBUS:811,FLIXBUS,FlixBus,Almere - Brussels,,3,,73D700,FFFFFF
+FLIXBUS:813,FLIXBUS,FlixBus,The Hague - Brussels,,3,,73D700,FFFFFF
+FLIXBUS:814,FLIXBUS,FlixBus,London - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:815,FLIXBUS,FlixBus,London - Brussels - Cologne,,3,,73D700,FFFFFF
+FLIXBUS:817,FLIXBUS,FlixBus,Amsterdam Schiphol - Brussels ( - Lille),,3,,73D700,FFFFFF
+FLIXBUS:818,FLIXBUS,FlixBus,Amsterdam - Brussels - Charleroi,,3,,73D700,FFFFFF
+FLIXBUS:819,FLIXBUS,FlixBus,Amsterdam - Brussels - Bruges,,3,,73D700,FFFFFF
+FLIXBUS:820,FLIXBUS,FlixBus,Paris - Charleroi - Liège - Maastricht/Venlo/Cologne,,3,,73D700,FFFFFF
+FLIXBUS:822,FLIXBUS,FlixBus,Groningen - Eindhoven - Brussels - Orly,,3,,73D700,FFFFFF
+FLIXBUS:831,FLIXBUS,FlixBus,Amsterdam-Lux,,3,,73D700,FFFFFF
+FLIXBUS:833,FLIXBUS,FlixBus,Amsterdam - EDV - Aachen,,3,,73D700,FFFFFF
+FLIXBUS:850,FLIXBUS,FlixBus,Prague - Brno,,3,,73D700,FFFFFF
+FLIXBUS:851,FLIXBUS,FlixBus,Prague - Pilsen,,3,,73D700,FFFFFF
+FLIXBUS:852,FLIXBUS,FlixBus,Prague - Liberec,,3,,73D700,FFFFFF
+FLIXBUS:853,FLIXBUS,FlixBus,Prague - Český Krumlov,,3,,73D700,FFFFFF
+FLIXBUS:854,FLIXBUS,FlixBus,Prague - Karlovy Vary,,3,,73D700,FFFFFF
+FLIXBUS:856,FLIXBUS,FlixBus,Zlin - Brno - Prague,,3,,73D700,FFFFFF
+FLIXBUS:857,FLIXBUS,FlixBus,Trencin - Brno - Prague,,3,,73D700,FFFFFF
+FLIXBUS:858,FLIXBUS,FlixBus,Prague - Chomutov - Most,,3,,73D700,FFFFFF
+FLIXBUS:859,FLIXBUS,FlixBus,Prague - Bratislava,,3,,73D700,FFFFFF
+FLIXBUS:900,FLIXBUS,FlixBus,Zagreb - Munich - Frankfurt,,3,,73D700,FFFFFF
+FLIXBUS:901,FLIXBUS,FlixBus,Vienna - Bratislava,,3,,73D700,FFFFFF
+FLIXBUS:902,FLIXBUS,FlixBus,Vienna - Budapest,,3,,73D700,FFFFFF
+FLIXBUS:903,FLIXBUS,FlixBus,Zagreb - Vienna - Prague,,3,,73D700,FFFFFF
+FLIXBUS:904,FLIXBUS,FlixBus,Prague - Budapest,,3,,73D700,FFFFFF
+FLIXBUS:905,FLIXBUS,FlixBus,Vienna - Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:907,FLIXBUS,FlixBus,Vienna - Venice,,3,,73D700,FFFFFF
+FLIXBUS:911,FLIXBUS,FlixBus,Kraków - Donovaly - Budapest,,3,,73D700,FFFFFF
+FLIXBUS:912,FLIXBUS,FlixBus,Horni Plana - Bratislava - Presov,,3,,73D700,FFFFFF
+FLIXBUS:913,FLIXBUS,FlixBus,Prague - Krakow,,3,,73D700,FFFFFF
+FLIXBUS:915,FLIXBUS,FlixBus,Prague - Kosice,,3,,73D700,FFFFFF
+FLIXBUS:916,FLIXBUS,FlixBus,Krakow - Wien,,3,,73D700,FFFFFF
+FLIXBUS:917,FLIXBUS,FlixBus,Bratislava - Vienna - Ljubljana,,3,,73D700,FFFFFF
+FLIXBUS:918,FLIXBUS,FlixBus,Warszawa - Ostrava - Wien,,3,,73D700,FFFFFF
+FLIXBUS:919,FLIXBUS,FlixBus,Wroclaw - Ostrava - Wien,,3,,73D700,FFFFFF
+FLIXBUS:920,FLIXBUS,FlixBus,Zagreb - Dubrovnik,,3,,73D700,FFFFFF
+FLIXBUS:922,FLIXBUS,FlixBus,Zagreb - Sibenik - Split,,3,,73D700,FFFFFF
+FLIXBUS:923,FLIXBUS,FlixBus,Zagreb - Zadar - Sibenik,,3,,73D700,FFFFFF
+FLIXBUS:924,FLIXBUS,FlixBus,Zagreb - Jastrebarsko - Split,,3,,73D700,FFFFFF
+FLIXBUS:927,FLIXBUS,FlixBus,Zagreb - Zadar,,3,,73D700,FFFFFF
+FLIXBUS:928,FLIXBUS,FlixBus,Zagreb - Biograd na Moru,,3,,73D700,FFFFFF
+FLIXBUS:931,FLIXBUS,FlixBus,Split - Plitvicka Jezera,,3,,73D700,FFFFFF
+FLIXBUS:932,FLIXBUS,FlixBus,Zadar - Plitvicka Jezera,,3,,73D700,FFFFFF
+FLIXBUS:933,FLIXBUS,FlixBus,Zagreb - Plitvicka Jezera,,3,,73D700,FFFFFF
+FLIXBUS:934,FLIXBUS,FlixBus,Split - Plitvicka Jezera,,3,,73D700,FFFFFF
+FLIXBUS:936a,FLIXBUS,FlixBus,Split - Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:936b,FLIXBUS,FlixBus,Split - Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:936c,FLIXBUS,FlixBus,Split - Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:937,FLIXBUS,FlixBus,Zagreb-Varaždin,,3,,73D700,FFFFFF
+FLIXBUS:940,FLIXBUS,FlixBus,Pula - Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:941,FLIXBUS,FlixBus,Pula - Split,,3,,73D700,FFFFFF
+FLIXBUS:943,FLIXBUS,FlixBus,Pula - Munich,,3,,73D700,FFFFFF
+FLIXBUS:944,FLIXBUS,FlixBus,Crikvenica - Udine - Munich,,3,,73D700,FFFFFF
+FLIXBUS:946,FLIXBUS,FlixBus,Budapest - Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:950,FLIXBUS,FlixBus,Varazdin - Munich,,3,,73D700,FFFFFF
+FLIXBUS:951,FLIXBUS,FlixBus,Zagreb - Stuttgart,,3,,73D700,FFFFFF
+FLIXBUS:954,FLIXBUS,FlixBus,Zagreb - Erlangen,,3,,73D700,FFFFFF
+FLIXBUS:956,FLIXBUS,FlixBus,Slavonski Brod - Prague,,3,,73D700,FFFFFF
+FLIXBUS:958,FLIXBUS,FlixBus,Prague - Crikvenica,,3,,73D700,FFFFFF
+FLIXBUS:961,FLIXBUS,FlixBus,Sibiu - Cluj - Vienna,,3,,73D700,FFFFFF
+FLIXBUS:962,FLIXBUS,FlixBus,Timisoara - Budapest - Vienna,,3,,73D700,FFFFFF
+FLIXBUS:976,FLIXBUS,FlixBus,Budapest - Zagreb - Krakow,,3,,73D700,FFFFFF
+FLIXBUS:977,FLIXBUS,FlixBus,Budapest - Ljubljana - Padova,,3,,73D700,FFFFFF
+FLIXBUS:978,FLIXBUS,FlixBus,Budapest - Vienna - Graz,,3,,73D700,FFFFFF
+FLIXBUS:980,FLIXBUS,FlixBus,Bucharest - Sofia,,3,,73D700,FFFFFF
+FLIXBUS:987,FLIXBUS,FlixBus,Ljubljana - Budapest,,3,,73D700,FFFFFF
+FLIXBUS:990,FLIXBUS,FlixBus,Belgrade - Budapest - Wien,,3,,73D700,FFFFFF
+FLIXBUS:991,FLIXBUS,FlixBus,Veliko Gradiste - Belgarde - Milano,,3,,73D700,FFFFFF
+FLIXBUS:992,FLIXBUS,FlixBus,Belgrade - Skopje,,3,,73D700,FFFFFF
+FLIXBUS:993,FLIXBUS,FlixBus,Belgrade - Paris,,3,,73D700,FFFFFF
+FLIXBUS:994,FLIXBUS,FlixBus,Belgrade - Firenze,,3,,73D700,FFFFFF
+FLIXBUS:995,FLIXBUS,FlixBus,Graz - Pula,,3,,73D700,FFFFFF
+FLIXBUS:996,FLIXBUS,FlixBus,Klagenfurt - Baska,,3,,73D700,FFFFFF
+FLIXBUS:A587,FLIXBUS,FlixBus,Cosenza - Firmo,,3,,73D700,FFFFFF
+FLIXBUS:A588,FLIXBUS,FlixBus,S. Giorgio Albanese - Firmo,,3,,73D700,FFFFFF
+FLIXBUS:AN587,FLIXBUS,FlixBus,Fiorenzuola - Bergamo,,3,,73D700,FFFFFF
+FLIXBUS:AN588,FLIXBUS,FlixBus,Modena - Bozen,,3,,73D700,FFFFFF
+FLIXBUS:FLX20,FLIXTRAIN,FlixTrain,Hamburg - Köln,,2,,73D700,FFFFFF
+FLIXBUS:FLXNIGHT,FLIXTRAIN,FlixTrain,Hamburg - Lörrach,,2,,73D700,FFFFFF
+FLIXBUS:K188,FLIXBUS,FlixBus,Zürich Flughafen - Lugano,,3,,73D700,FFFFFF
+FLIXBUS:K213,FLIXTRAIN,FlixTrain,Stuttgart - Berlin,,2,,73D700,FFFFFF
+FLIXBUS:K288,FLIXBUS,FlixBus,Chur - Sitten,,3,,73D700,FFFFFF
+FLIXBUS:K319,FLIXBUS,FlixBus,Mińsk - Katowice,,3,,73D700,FFFFFF
+FLIXBUS:K326,FLIXBUS,FlixBus,Hahn Express,,3,,73D700,FFFFFF
+FLIXBUS:K330,FLIXBUS,FlixBus,Venice Mestre - Venice Airport,,3,,73D700,FFFFFF
+FLIXBUS:K380,FLIXBUS,FlixBus,Wroclaw (Wrocław) Dworzec Autobusowy - Wroclaw Airport (Wrocław Lotnisko),,3,,73D700,FFFFFF
+FLIXBUS:K388,FLIXBUS,FlixBus,St. Gallen - Genève Airport,,3,,73D700,FFFFFF
+FLIXBUS:K472,FLIXBUS,FlixBus,Wien Erdberg - Wien Flughafen,,3,,73D700,FFFFFF
+FLIXBUS:K476,FLIXBUS,FlixBus,Linz - Prag,,3,,73D700,FFFFFF
+FLIXBUS:K485,FLIXTRAIN,FlixTrain,Wien - Salzburg,,2,,73D700,FFFFFF
+FLIXBUS:K608,FLIXBUS,FlixBus,Stockholm - Funäsdalen,,3,,73D700,FFFFFF
+FLIXBUS:K618,FLIXBUS,FlixBus,Stockholm - Edsbyn,,3,,73D700,FFFFFF
+FLIXBUS:K628,FLIXBUS,FlixBus,Stockholm - Östersund,,3,,73D700,FFFFFF
+FLIXBUS:K780,FLIXBUS,FlixBus,Lisboa - Luxembourg,,3,,73D700,FFFFFF
+FLIXBUS:K783,FLIXBUS,FlixBus,Vagos - Annecy,,3,,73D700,FFFFFF
+FLIXBUS:K784,FLIXBUS,FlixBus,Lissabon - Beausoleil,,3,,73D700,FFFFFF
+FLIXBUS:K786,FLIXBUS,FlixBus,Fuengirola - Porto,,3,,73D700,FFFFFF
+FLIXBUS:K787,FLIXBUS,FlixBus,Krynica Zdrój - Kraków - Kołobrzeg,,3,,73D700,FFFFFF
+FLIXBUS:K803,FLIXBUS,FlixBus,Ljubljana - Venice Airport - Treviso Airport,,3,,73D700,FFFFFF
+FLIXBUS:KPB1,FLIXBUS,FlixBus,Lublin - Kraków,,3,,73D700,FFFFFF
+FLIXBUS:KPB2,FLIXBUS,FlixBus,Lublin - Zakopane,,3,,73D700,FFFFFF
+FLIXBUS:KPB3,FLIXBUS,FlixBus,Lublin - Gdynia,,3,,73D700,FFFFFF
+FLIXBUS:KPB5,FLIXBUS,FlixBus,Lublin - Wroclaw,,3,,73D700,FFFFFF
+FLIXBUS:L938,FLIXBUS,FlixBus,Zadar - Rijeka,,3,,73D700,FFFFFF
+FLIXBUS:L939,FLIXBUS,FlixBus,Zagreb - Vir,,3,,73D700,FFFFFF
+FLIXBUS:LE001,FLIXTRAIN,FlixTrain,Prague - Kosice,,2,,73D700,FFFFFF
+FLIXBUS:N05,FLIXBUS,FlixBus,München - Kopenhagen,,3,,73D700,FFFFFF
+FLIXBUS:N06,FLIXBUS,FlixBus,Berlin - Leipzig - München - Zürich,,3,,73D700,FFFFFF
+FLIXBUS:N07,FLIXBUS,FlixBus,Essen - Mailand,,3,,73D700,FFFFFF
+FLIXBUS:N100,FLIXBUS,FlixBus,Berlin - Paris,,3,,73D700,FFFFFF
+FLIXBUS:N106,FLIXBUS,FlixBus,Munich - Lyon,,3,,73D700,FFFFFF
+FLIXBUS:N109,FLIXBUS,FlixBus,Prague - Paris,,3,,73D700,FFFFFF
+FLIXBUS:N11,FLIXBUS,FlixBus,Bocholt - K - Mailand,,3,,73D700,FFFFFF
+FLIXBUS:N110,FLIXBUS,FlixBus,Hamburg - F - Chur,,3,,73D700,FFFFFF
+FLIXBUS:N116,FLIXBUS,FlixBus,Wiesbaden - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:N121,FLIXBUS,FlixBus,München - Dresden - Berlin Alexanderplatz,,3,,73D700,FFFFFF
+FLIXBUS:N1210,FLIXBUS,FlixBus,Warszawa - Gdansk (- Leba),,3,,73D700,FFFFFF
+FLIXBUS:N122,FLIXBUS,FlixBus,Frankfurt - Lyon,,3,,73D700,FFFFFF
+FLIXBUS:N1271,FLIXBUS,FlixBus,Warszawa - Kielce - Przemyśl,,3,,73D700,FFFFFF
+FLIXBUS:N1293,FLIXBUS,FlixBus,Wroclaw - Ostrava - Bratislava - Budapest,,3,,73D700,FFFFFF
+FLIXBUS:N13,FLIXBUS,FlixBus,Berlin - Saarbrücken,,3,,73D700,FFFFFF
+FLIXBUS:N132,FLIXBUS,FlixBus,Berlin - Oslo,,3,,73D700,FFFFFF
+FLIXBUS:N1340,FLIXBUS,FlixBus,Warszawa - Poznań - Szczecin,,3,,73D700,FFFFFF
+FLIXBUS:N136,FLIXBUS,FlixBus,Antwerpen -  Strasbourg - Bratislava,,3,,73D700,FFFFFF
+FLIXBUS:N14,FLIXBUS,FlixBus,(Schwarzwald) - Heidelberg - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:N15,FLIXBUS,FlixBus,Berlin - Freiburg,,3,,73D700,FFFFFF
+FLIXBUS:N150,FLIXBUS,FlixBus,Berlin - Hamburg - Aalborg,,3,,73D700,FFFFFF
+FLIXBUS:N158,FLIXBUS,FlixBus,Berlin - Aachen - Antwerpen,,3,,73D700,FFFFFF
+FLIXBUS:N1584,FLIXBUS,FlixBus,Florence - Genoa,,3,,73D700,FFFFFF
+FLIXBUS:N160,FLIXBUS,FlixBus,Berlin - Prague - Triest,,3,,73D700,FFFFFF
+FLIXBUS:N161,FLIXBUS,FlixBus,Essen - Nürnberg - Passau - Wien - Bratislava - Budapest,,3,,73D700,FFFFFF
+FLIXBUS:N168,FLIXBUS,FlixBus,Straßburg-Stuttgart-Bayreuth-Prag,,3,,73D700,FFFFFF
+FLIXBUS:N17,FLIXBUS,FlixBus,Hamburg - DO - München,,3,,73D700,FFFFFF
+FLIXBUS:N1729,FLIXBUS,FlixBus,Paris - Geneva - Rome,,3,,73D700,FFFFFF
+FLIXBUS:N177,FLIXBUS,FlixBus,Düsseldorf - Genoa,,3,,73D700,FFFFFF
+FLIXBUS:N179,FLIXBUS,FlixBus,Dortmund -  Paris,,3,,73D700,FFFFFF
+FLIXBUS:N1795,FLIXBUS,FlixBus,Lisbon - Cordoba - Málaga,,3,,73D700,FFFFFF
+FLIXBUS:N184,FLIXBUS,FlixBus,Prag - Zürich - Mailand,,3,,73D700,FFFFFF
+FLIXBUS:N1960,FLIXBUS,FlixBus,Kozluk - St. Polten,,3,,73D700,FFFFFF
+FLIXBUS:N1961,FLIXBUS,FlixBus,Tuzla - Dortmund,,3,,73D700,FFFFFF
+FLIXBUS:N1962,FLIXBUS,FlixBus,Tuzla - Hamburg,,3,,73D700,FFFFFF
+FLIXBUS:N1970,FLIXBUS,FlixBus,Sarajevo - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:N1971,FLIXBUS,FlixBus,Sarajevo - Dortmund,,3,,73D700,FFFFFF
+FLIXBUS:N1972,FLIXBUS,FlixBus,Sarajevo - Hamburg,,3,,73D700,FFFFFF
+FLIXBUS:N20,FLIXBUS,FlixBus,Amsterdam - Krakow (Before: Essen - Krakow),,3,,73D700,FFFFFF
+FLIXBUS:N207,FLIXBUS,FlixBus,Amsterdam - Köln - Mainz - Konstanz - Zürich - Milano,,3,,73D700,FFFFFF
+FLIXBUS:N23,FLIXBUS,FlixBus,Cologne South CGN ✈ - Prague,,3,,73D700,FFFFFF
+FLIXBUS:N232,FLIXBUS,FlixBus,Prague - Berlin - Copenhagen,,3,,73D700,FFFFFF
+FLIXBUS:N236,FLIXBUS,FlixBus,Paris - Metz - Saarbrücken - Wien,,3,,73D700,FFFFFF
+FLIXBUS:N24,FLIXBUS,FlixBus,Hamburg - Mailand,,3,,73D700,FFFFFF
+FLIXBUS:N260,FLIXBUS,FlixBus,Berlin - Prague - Budapest/Balaton,,3,,73D700,FFFFFF
+FLIXBUS:N261,FLIXBUS,FlixBus,Essen - Frankfurt - Nürnberg - Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:N27,FLIXBUS,FlixBus,(Nordsee -) Bochum / Essen - München,,3,,73D700,FFFFFF
+FLIXBUS:N277,FLIXBUS,FlixBus,Frankfurt - Venice - Punta Sabbioni,,3,,73D700,FFFFFF
+FLIXBUS:N28,FLIXBUS,FlixBus,Essen - Frankfurt Flughafen - Nürnberg - München - Venedig,,3,,73D700,FFFFFF
+FLIXBUS:N30,FLIXBUS,FlixBus,Berlin - Hannover - Düsseldorf,,3,,73D700,FFFFFF
+FLIXBUS:N307,FLIXBUS,FlixBus,Frankfurt - Livorno,,3,,73D700,FFFFFF
+FLIXBUS:N31,FLIXBUS,FlixBus,Berlin - Hannover - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:N32,FLIXBUS,FlixBus,Berlin - Stockholm,,3,,73D700,FFFFFF
+FLIXBUS:N3200,FLIXBUS,FlixBus,Kiev - Cologne,,3,,73D700,FFFFFF
+FLIXBUS:N3201,FLIXBUS,FlixBus,Kiev - Rostock,,3,,73D700,FFFFFF
+FLIXBUS:N3202,FLIXBUS,FlixBus,Kiev - Karlsruhe,,3,,73D700,FFFFFF
+FLIXBUS:N3203,FLIXBUS,FlixBus,Kiev - Stuttgart,,3,,73D700,FFFFFF
+FLIXBUS:N33,FLIXBUS,FlixBus,Luzern - Zürich - Hamburg - Kiel,,3,,73D700,FFFFFF
+FLIXBUS:N3300,FLIXBUS,FlixBus,Kiev - Vienna,,3,,73D700,FFFFFF
+FLIXBUS:N34,FLIXBUS,FlixBus,Berlin - München,,3,,73D700,FFFFFF
+FLIXBUS:N36,FLIXBUS,FlixBus,Antwerpen - Kaiserslautern - Bratislava,,3,,73D700,FFFFFF
+FLIXBUS:N367,FLIXBUS,FlixBus,Prague -  Hanover - Paris,,3,,73D700,FFFFFF
+FLIXBUS:N38,FLIXBUS,FlixBus,Berlin - Bonn,,3,,73D700,FFFFFF
+FLIXBUS:N391,FLIXBUS,FlixBus,Freiburg - BAS - ZH - INN - ROS - SAL - WIE - Budapest,,3,,73D700,FFFFFF
+FLIXBUS:N40,FLIXBUS,FlixBus,Berlin- München - Innsbruck,,3,,73D700,FFFFFF
+FLIXBUS:N401,FLIXBUS,FlixBus,Venice - Strasbourg,,3,,73D700,FFFFFF
+FLIXBUS:N402,FLIXBUS,FlixBus,Torino-Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:N403,FLIXBUS,FlixBus,Milano-Budapest,,3,,73D700,FFFFFF
+FLIXBUS:N405,FLIXBUS,FlixBus,Ginevra-Venezia-Pula,,3,,73D700,FFFFFF
+FLIXBUS:N406,FLIXBUS,FlixBus,Rijeka - Lyon,,3,,73D700,FFFFFF
+FLIXBUS:N42,FLIXBUS,FlixBus,Berlin - Nürnberg -  Tübingen,,3,,73D700,FFFFFF
+FLIXBUS:N420,FLIXBUS,FlixBus,Milan-Bari-Gallipoli,,3,,73D700,FFFFFF
+FLIXBUS:N421,FLIXBUS,FlixBus,Gallipoli-Hannover,,3,,73D700,FFFFFF
+FLIXBUS:N422,FLIXBUS,FlixBus,Crotone-Dortmund,,3,,73D700,FFFFFF
+FLIXBUS:N424,FLIXBUS,FlixBus,Turin - Alberobello,,3,,73D700,FFFFFF
+FLIXBUS:N425,FLIXBUS,FlixBus,Turin - Otranto,,3,,73D700,FFFFFF
+FLIXBUS:N431,FLIXBUS,FlixBus,Bergamo - Lecce,,3,,73D700,FFFFFF
+FLIXBUS:N432,FLIXBUS,FlixBus,Bolzano-Avellino,,3,,73D700,FFFFFF
+FLIXBUS:N433,FLIXBUS,FlixBus,Venice - Salerno,,3,,73D700,FFFFFF
+FLIXBUS:N44,FLIXBUS,FlixBus,Berlin - Hamburg - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:N440,FLIXBUS,FlixBus,Trieste - Taranto,,3,,73D700,FFFFFF
+FLIXBUS:N444,FLIXBUS,FlixBus,Livorno-Pescara-Taranto,,3,,73D700,FFFFFF
+FLIXBUS:N452,FLIXBUS,FlixBus,Nuremberg-Munich-Florence,,3,,73D700,FFFFFF
+FLIXBUS:N453,FLIXBUS,FlixBus,Munich-Rimini-Cattolica,,3,,73D700,FFFFFF
+FLIXBUS:N467,FLIXBUS,FlixBus,Padova-Venice-Prague,,3,,73D700,FFFFFF
+FLIXBUS:N468,FLIXBUS,FlixBus,Bratislava-Vienna-Milan,,3,,73D700,FFFFFF
+FLIXBUS:N482,FLIXBUS,FlixBus,Marseille-Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:N491,FLIXBUS,FlixBus,Munich - Venice,,3,,73D700,FFFFFF
+FLIXBUS:N50,FLIXBUS,FlixBus,Erfurt - Berlin - Kiel,,3,,73D700,FFFFFF
+FLIXBUS:N501,FLIXBUS,FlixBus,Turin - Naples - Agropoli,,3,,73D700,FFFFFF
+FLIXBUS:N503,FLIXBUS,FlixBus,Turin - Genoa - Rome,,3,,73D700,FFFFFF
+FLIXBUS:N504,FLIXBUS,FlixBus,Lausanne - Turin - Perugia,,3,,73D700,FFFFFF
+FLIXBUS:N506,FLIXBUS,FlixBus,Genoa - Brussels,,3,,73D700,FFFFFF
+FLIXBUS:N507,FLIXBUS,FlixBus,Stuttgart-Milan-Nice,,3,,73D700,FFFFFF
+FLIXBUS:N508,FLIXBUS,FlixBus,Frankfurt - Cannes,,3,,73D700,FFFFFF
+FLIXBUS:N519,FLIXBUS,FlixBus,Aosta - Rome,,3,,73D700,FFFFFF
+FLIXBUS:N520,FLIXBUS,FlixBus,Milan - Florence - Rome,,3,,73D700,FFFFFF
+FLIXBUS:N521,FLIXBUS,FlixBus,Rome-Paris,,3,,73D700,FFFFFF
+FLIXBUS:N522,FLIXBUS,FlixBus,Milano-Bergamo-Roma,,3,,73D700,FFFFFF
+FLIXBUS:N523,FLIXBUS,FlixBus,Salerno - Rome - Marseille,,3,,73D700,FFFFFF
+FLIXBUS:N524,FLIXBUS,FlixBus,Basel-Rome,,3,,73D700,FFFFFF
+FLIXBUS:N525,FLIXBUS,FlixBus,Bergamo - Naples,,3,,73D700,FFFFFF
+FLIXBUS:N526,FLIXBUS,FlixBus,Milan - Potenza,,3,,73D700,FFFFFF
+FLIXBUS:N530,FLIXBUS,FlixBus,Bolzano-Verona-Rome,,3,,73D700,FFFFFF
+FLIXBUS:N531,FLIXBUS,FlixBus,Munich-Rome,,3,,73D700,FFFFFF
+FLIXBUS:N533,FLIXBUS,FlixBus,Trieste-Venice Mestre-Rome,,3,,73D700,FFFFFF
+FLIXBUS:N535,FLIXBUS,FlixBus,Florence-Venice-Split,,3,,73D700,FFFFFF
+FLIXBUS:N536,FLIXBUS,FlixBus,Florence-Budapest,,3,,73D700,FFFFFF
+FLIXBUS:N537,FLIXBUS,FlixBus,Florence - Dortmund,,3,,73D700,FFFFFF
+FLIXBUS:N538,FLIXBUS,FlixBus,Florence-Prague,,3,,73D700,FFFFFF
+FLIXBUS:N539,FLIXBUS,FlixBus,Milano - Bologna - Perugia - Roma,,3,,73D700,FFFFFF
+FLIXBUS:N544,FLIXBUS,FlixBus,Trieste - Naples,,3,,73D700,FFFFFF
+FLIXBUS:N545,FLIXBUS,FlixBus,Bratislava-Vienna-Florence,,3,,73D700,FFFFFF
+FLIXBUS:N546,FLIXBUS,FlixBus,Genoa - Bari,,3,,73D700,FFFFFF
+FLIXBUS:N547,FLIXBUS,FlixBus,La Spezia-Lecce,,3,,73D700,FFFFFF
+FLIXBUS:N548,FLIXBUS,FlixBus,Genoa-Naples-Lecce,,3,,73D700,FFFFFF
+FLIXBUS:N569,FLIXBUS,FlixBus,Rome-Naples-Taranto,,3,,73D700,FFFFFF
+FLIXBUS:N570,FLIXBUS,FlixBus,Rome-Taranto-Lecce,,3,,73D700,FFFFFF
+FLIXBUS:N573,FLIXBUS,FlixBus,Rome-Naples-Bari-Lecce,,3,,73D700,FFFFFF
+FLIXBUS:N574,FLIXBUS,FlixBus,Rome Fiumicino-Rome-Foggia,,3,,73D700,FFFFFF
+FLIXBUS:N580,FLIXBUS,FlixBus,Salerno - Lyon,,3,,73D700,FFFFFF
+FLIXBUS:N581,FLIXBUS,FlixBus,Cariati - Milan,,3,,73D700,FFFFFF
+FLIXBUS:N582,FLIXBUS,FlixBus,Crotone - Perugia,,3,,73D700,FFFFFF
+FLIXBUS:N583,FLIXBUS,FlixBus,Cutro - Turin,,3,,73D700,FFFFFF
+FLIXBUS:N584,FLIXBUS,FlixBus,Crotone - Verona,,3,,73D700,FFFFFF
+FLIXBUS:N585,FLIXBUS,FlixBus,Cariati - Padua,,3,,73D700,FFFFFF
+FLIXBUS:N586,FLIXBUS,FlixBus,Cariati - Palermo,,3,,73D700,FFFFFF
+FLIXBUS:N587,FLIXBUS,FlixBus,Cariati - Turin,,3,,73D700,FFFFFF
+FLIXBUS:N588,FLIXBUS,FlixBus,Cariati - Rome - Perugia,,3,,73D700,FFFFFF
+FLIXBUS:N589,FLIXBUS,FlixBus,Cariati - Pisa,,3,,73D700,FFFFFF
+FLIXBUS:N60,FLIXBUS,FlixBus,Berlin - Prague - Vienna/Zagreb,,3,,73D700,FFFFFF
+FLIXBUS:N600,FLIXBUS,FlixBus,Oslo-Stockholm,,3,,73D700,FFFFFF
+FLIXBUS:N600S,FLIXBUS,FlixBus,Stockholm - Oslo,,3,,73D700,FFFFFF
+FLIXBUS:N601,FLIXBUS,FlixBus,Uppsala - Göteborg,,3,,73D700,FFFFFF
+FLIXBUS:N602,FLIXBUS,FlixBus,Kopenhagen - Stockholm,,3,,73D700,FFFFFF
+FLIXBUS:N61,FLIXBUS,FlixBus,Amsterdam - Köln/Bonn - Wien,,3,,73D700,FFFFFF
+FLIXBUS:N613S,FLIXBUS,FlixBus,Copenhagen . Oslo,,3,,73D700,FFFFFF
+FLIXBUS:N630,FLIXBUS,FlixBus,Aarhus - Hamburg-Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:N66,FLIXBUS,FlixBus,Hamburg - Vienna - Bratislava,,3,,73D700,FFFFFF
+FLIXBUS:N67,FLIXBUS,FlixBus,Prague - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:N70,FLIXBUS,FlixBus,Hamburg - Prag,,3,,73D700,FFFFFF
+FLIXBUS:N700,FLIXBUS,FlixBus,Paris - London,,3,,73D700,FFFFFF
+FLIXBUS:N701,FLIXBUS,FlixBus,Saint Malo - Toulouse,,3,,73D700,FFFFFF
+FLIXBUS:N702,FLIXBUS,FlixBus,Brugge - Paris - Brest,,3,,73D700,FFFFFF
+FLIXBUS:N703,FLIXBUS,FlixBus,Paris - Bordeaux - Biarritz,,3,,73D700,FFFFFF
+FLIXBUS:N705,FLIXBUS,FlixBus,Paris (CDG ✈) - Toulouse,,3,,73D700,FFFFFF
+FLIXBUS:N706,FLIXBUS,FlixBus,Bordeaux - Lyon - Grenoble - Geneva,,3,,73D700,FFFFFF
+FLIXBUS:N707,FLIXBUS,FlixBus,Paris - Clermont-Ferrand - Barcelona,,3,,73D700,FFFFFF
+FLIXBUS:N708,FLIXBUS,FlixBus,Nice - Barcelona,,3,,73D700,FFFFFF
+FLIXBUS:N709,FLIXBUS,FlixBus,Grenoble - Paris - Rouen,,3,,73D700,FFFFFF
+FLIXBUS:N71,FLIXBUS,FlixBus,Hamburg - Paris,,3,,73D700,FFFFFF
+FLIXBUS:N712,FLIXBUS,FlixBus,Bruxelles - Lille - Paris - Nantes,,3,,73D700,FFFFFF
+FLIXBUS:N716,FLIXBUS,FlixBus,Lyon - Toulouse - Bilbao,,3,,73D700,FFFFFF
+FLIXBUS:N717,FLIXBUS,FlixBus,Paris - Montpellier - Barcelona,,3,,73D700,FFFFFF
+FLIXBUS:N718,FLIXBUS,FlixBus,Bordeaux - Nice,,3,,73D700,FFFFFF
+FLIXBUS:N719,FLIXBUS,FlixBus,Paris - Nice - Genova,,3,,73D700,FFFFFF
+FLIXBUS:N720,FLIXBUS,FlixBus,Marseille - Lyon - Strasbourg,,3,,73D700,FFFFFF
+FLIXBUS:N721,FLIXBUS,FlixBus,Nantes - Bordeaux - Barcelona,,3,,73D700,FFFFFF
+FLIXBUS:N723,FLIXBUS,FlixBus,Paris (✈ CDG / ORY) - Nantes - La Rochelle,,3,,73D700,FFFFFF
+FLIXBUS:N724,FLIXBUS,FlixBus,Brest - Nantes- Lyon - Grenoble,,3,,73D700,FFFFFF
+FLIXBUS:N728,FLIXBUS,FlixBus,Munich - Genoa - Barcelona,,3,,73D700,FFFFFF
+FLIXBUS:N729,FLIXBUS,FlixBus,Paris - Milan - Venice,,3,,73D700,FFFFFF
+FLIXBUS:N73,FLIXBUS,FlixBus,Köln - Malmö - Lund,,3,,73D700,FFFFFF
+FLIXBUS:N730,FLIXBUS,FlixBus,Düsseldorf - Lyon -  Marseille,,3,,73D700,FFFFFF
+FLIXBUS:N74,FLIXBUS,FlixBus,Köln - Flensburg - Kopenhagen,,3,,73D700,FFFFFF
+FLIXBUS:N740,FLIXBUS,FlixBus,Venice - Milan - Barcelona,,3,,73D700,FFFFFF
+FLIXBUS:N743,FLIXBUS,FlixBus,Brussels - Bordeaux - Bilbao,,3,,73D700,FFFFFF
+FLIXBUS:N749,FLIXBUS,FlixBus,Paris - Marseille - Toulon,,3,,73D700,FFFFFF
+FLIXBUS:N75,FLIXBUS,FlixBus,Amsterdam - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:N758,FLIXBUS,FlixBus,Florence - Barcelona,,3,,73D700,FFFFFF
+FLIXBUS:N759,FLIXBUS,FlixBus,Strasbourg - Dijon - Paris,,3,,73D700,FFFFFF
+FLIXBUS:N76,FLIXBUS,FlixBus,Munich - Turin,,3,,73D700,FFFFFF
+FLIXBUS:N760,FLIXBUS,FlixBus,Lyon - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:N763,FLIXBUS,FlixBus,Bordeaux - Bilbao - Lisbon,,3,,73D700,FFFFFF
+FLIXBUS:N769,FLIXBUS,FlixBus,Bruxelles - Marseille - Toulon,,3,,73D700,FFFFFF
+FLIXBUS:N77,FLIXBUS,FlixBus,Rome - Frankfurt,,3,,73D700,FFFFFF
+FLIXBUS:N770,FLIXBUS,FlixBus,Paris - Brussels - Copenhagen,,3,,73D700,FFFFFF
+FLIXBUS:N780,FLIXBUS,FlixBus,Berlin - Luxembourg - Paris,,3,,73D700,FFFFFF
+FLIXBUS:N781,FLIXBUS,FlixBus,Antwerp - Limoges - Barcelona,,3,,73D700,FFFFFF
+FLIXBUS:N786,FLIXBUS,FlixBus,Toulouse - Valladolid - Salamanca - Lisbon,,3,,73D700,FFFFFF
+FLIXBUS:N788,FLIXBUS,FlixBus,Geneva - Barcelona,,3,,73D700,FFFFFF
+FLIXBUS:N79,FLIXBUS,FlixBus,Dortmund - Paris,,3,,73D700,FFFFFF
+FLIXBUS:N793,FLIXBUS,FlixBus,Madrid - Lisbon,,3,,73D700,FFFFFF
+FLIXBUS:N795,FLIXBUS,FlixBus,Madrid - Porto - Braga,,3,,73D700,FFFFFF
+FLIXBUS:N796,FLIXBUS,FlixBus,Barcelona - Zaragoza - Porto,,3,,73D700,FFFFFF
+FLIXBUS:N797,FLIXBUS,FlixBus,Barcelona - Zaragoza - Lisbon,,3,,73D700,FFFFFF
+FLIXBUS:N799,FLIXBUS,FlixBus,Paris-Geneve-Berne,,3,,73D700,FFFFFF
+FLIXBUS:N80,FLIXBUS,FlixBus,Dortmund - London,,3,,73D700,FFFFFF
+FLIXBUS:N800,FLIXBUS,FlixBus,Amsterdam - Paris,,3,,73D700,FFFFFF
+FLIXBUS:N802,FLIXBUS,FlixBus,Alkmaar - Paris,,3,,73D700,FFFFFF
+FLIXBUS:N803,FLIXBUS,FlixBus,Amsterdam - Paris,,3,,73D700,FFFFFF
+FLIXBUS:N81,FLIXBUS,FlixBus,Berlin - Brussels,,3,,73D700,FFFFFF
+FLIXBUS:N814,FLIXBUS,FlixBus,London - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:N815,FLIXBUS,FlixBus,London - Brussels - Cologne - Frankfurt,,3,,73D700,FFFFFF
+FLIXBUS:N817,FLIXBUS,FlixBus,Amsterdam Schiphol - Brussels - Lille,,3,,73D700,FFFFFF
+FLIXBUS:N818,FLIXBUS,FlixBus,Hamburg - Amsterdam - Charleroi,,3,,73D700,FFFFFF
+FLIXBUS:N819,FLIXBUS,FlixBus,Amsterdam - Brussels - Bruges,,3,,73D700,FFFFFF
+FLIXBUS:N83,FLIXBUS,FlixBus,München - Prag,,3,,73D700,FFFFFF
+FLIXBUS:N831,FLIXBUS,FlixBus,Amsterdam - Liège - Luxembourg - Strasbourg - Basel SBB - Zürich,,3,,73D700,FFFFFF
+FLIXBUS:N836,FLIXBUS,FlixBus,Amsterdam - Brussels - Luxemburg - Milan,,3,,73D700,FFFFFF
+FLIXBUS:N84,FLIXBUS,FlixBus,Prag - Frankfurt - Brüssel - Oostende,,3,,73D700,FFFFFF
+FLIXBUS:N844,FLIXBUS,FlixBus,RTM - AMD - HH - KHG,,3,,73D700,FFFFFF
+FLIXBUS:N86,FLIXBUS,FlixBus,Berlin-München-Salzburg,,3,,73D700,FFFFFF
+FLIXBUS:N899,FLIXBUS,FlixBus,Kraków - München,,3,,73D700,FFFFFF
+FLIXBUS:N90,FLIXBUS,FlixBus,Darmstadt-Saarbrücken-Paris,,3,,73D700,FFFFFF
+FLIXBUS:N900,FLIXBUS,FlixBus,Zagreb - Munich,,3,,73D700,FFFFFF
+FLIXBUS:N903,FLIXBUS,FlixBus,Zagreb - Vienna - Prague,,3,,73D700,FFFFFF
+FLIXBUS:N905,FLIXBUS,FlixBus,Vienna - Zagreb - Osijek,,3,,73D700,FFFFFF
+FLIXBUS:N906,FLIXBUS,FlixBus,Split - Vienna - Prague,,3,,73D700,FFFFFF
+FLIXBUS:N907,FLIXBUS,FlixBus,Vienna - Venice,,3,,73D700,FFFFFF
+FLIXBUS:N909,FLIXBUS,FlixBus,Bratislava - Vienna - Pula,,3,,73D700,FFFFFF
+FLIXBUS:N91,FLIXBUS,FlixBus,Paris - München - Wien - Budapest,,3,,73D700,FFFFFF
+FLIXBUS:N911,FLIXBUS,FlixBus,Kraków - Banska Bystica - Budapest,,3,,73D700,FFFFFF
+FLIXBUS:N913,FLIXBUS,FlixBus,Prague - Krakow,,3,,73D700,FFFFFF
+FLIXBUS:N918,FLIXBUS,FlixBus,Warszawa - Katowice - Wien,,3,,73D700,FFFFFF
+FLIXBUS:N920,FLIXBUS,FlixBus,Zagreb - Dubrovnik,,3,,73D700,FFFFFF
+FLIXBUS:N93,FLIXBUS,FlixBus,Amsterdam - Rotterdam - Köln - München,,3,,73D700,FFFFFF
+FLIXBUS:N94,FLIXBUS,FlixBus,Amsterdam - Utrecht - Mannheim - München,,3,,73D700,FFFFFF
+FLIXBUS:N943,FLIXBUS,FlixBus,Pula - Munich,,3,,73D700,FFFFFF
+FLIXBUS:N947,FLIXBUS,FlixBus,Munich - Makarska,,3,,73D700,FFFFFF
+FLIXBUS:N948,FLIXBUS,FlixBus,Split - Munich - Frankfurt,,3,,73D700,FFFFFF
+FLIXBUS:N949,FLIXBUS,FlixBus,Budapest - Split,,3,,73D700,FFFFFF
+FLIXBUS:N95,FLIXBUS,FlixBus,Berlin - München - Mailand,,3,,73D700,FFFFFF
+FLIXBUS:N950,FLIXBUS,FlixBus,Osijek - Varazdin - Karlsruhe,,3,,73D700,FFFFFF
+FLIXBUS:N952,FLIXBUS,FlixBus,Vukovar - Zagreb - Frankfurt,,3,,73D700,FFFFFF
+FLIXBUS:N953,FLIXBUS,FlixBus,Zagreb - Basel,,3,,73D700,FFFFFF
+FLIXBUS:N955,FLIXBUS,FlixBus,Zagreb - Kornwestheim,,3,,73D700,FFFFFF
+FLIXBUS:N959,FLIXBUS,FlixBus,Prague - Vienna - Bucharest,,3,,73D700,FFFFFF
+FLIXBUS:N960,FLIXBUS,FlixBus,Bucharest - Budapest,,3,,73D700,FFFFFF
+FLIXBUS:N963,FLIXBUS,FlixBus,Miercurea Ciuc - Cluj - Vienna,,3,,73D700,FFFFFF
+FLIXBUS:N971,FLIXBUS,FlixBus,Sarajevo - Dortmund,,3,,73D700,FFFFFF
+FLIXBUS:N98,FLIXBUS,FlixBus,Mannheim - Kopenhagen,,3,,73D700,FFFFFF
+FLIXBUS:N980,FLIXBUS,FlixBus,Bucharest - Sofia,,3,,73D700,FFFFFF
+FLIXBUS:N982,FLIXBUS,FlixBus,Vienna - Budapest - Sofia,,3,,73D700,FFFFFF
+FLIXBUS:N99,FLIXBUS,FlixBus,Paris - Zurich,,3,,73D700,FFFFFF
+FLIXBUS:N990,FLIXBUS,FlixBus,Belgrade - Budapest - Vienna,,3,,73D700,FFFFFF
+FLIXBUS:N997,FLIXBUS,FlixBus,Zagreb - Rome,,3,,73D700,FFFFFF
+FLIXBUS:N998,FLIXBUS,FlixBus,Zürich - Maribor - Virovitica,,3,,73D700,FFFFFF
+FLIXBUS:P1,FLIXBUS,FlixBus,Warszawa - Gdańsk,,3,,73D700,FFFFFF
+FLIXBUS:P10,FLIXBUS,FlixBus,Warszawa - Rzeszów,,3,,73D700,FFFFFF
+FLIXBUS:P12,FLIXBUS,FlixBus,Gdansk - Rzeszow,,3,,73D700,FFFFFF
+FLIXBUS:P13,FLIXBUS,FlixBus,Gdańsk - Poznań - Praha,,3,,73D700,FFFFFF
+FLIXBUS:P14,FLIXBUS,FlixBus,Berlin - Wroclaw - Krakow - Rzeszow,,3,,73D700,FFFFFF
+FLIXBUS:P15,FLIXBUS,FlixBus,Wroclaw - Katowice,,3,,73D700,FFFFFF
+FLIXBUS:P16,FLIXBUS,FlixBus,Zakopane - Wrocław - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:P2,FLIXBUS,FlixBus,Warszawa - Bydgoszcz,,3,,73D700,FFFFFF
+FLIXBUS:P22,FLIXBUS,FlixBus,Krakow - Wien,,3,,73D700,FFFFFF
+FLIXBUS:P24,FLIXBUS,FlixBus,Gdańsk - Poznań - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:P3,FLIXBUS,FlixBus,Warszawa - Łódź - Poznań - Berlin,,3,,73D700,FFFFFF
+FLIXBUS:P4,FLIXBUS,FlixBus,Warszawa - Wroclaw - Praha,,3,,73D700,FFFFFF
+FLIXBUS:P6,FLIXBUS,FlixBus,"Warszawa - Krakow - Zakopane, Budapest",,3,,73D700,FFFFFF
+FLIXBUS:P7,FLIXBUS,FlixBus,Warszawa - Lublin,,3,,73D700,FFFFFF
+FLIXBUS:X06,FLIXBUS,FlixBus,Zürich - München,,3,,73D700,FFFFFF
+FLIXBUS:X28,FLIXBUS,FlixBus,München - Frankfurt - Köln/Bonn Flughafen - (Düsseldorf),,3,,73D700,FFFFFF
+FLIXBUS:X31,FLIXBUS,FlixBus,Berlin - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:X50,FLIXBUS,FlixBus,B-HH,,3,,73D700,FFFFFF
+FLIXBUS:X67,FLIXBUS,FlixBus,Halle - Leipzig - Prague,,3,,73D700,FFFFFF
+FLIXBUS:X68,FLIXBUS,FlixBus,Mannheim - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:X73,FLIXBUS,FlixBus,Köln-Hamburg-Kopenhagen,,3,,73D700,FFFFFF
+FLIXBUS:X75,FLIXBUS,FlixBus,Hamburg - Amsterdam,,3,,73D700,FFFFFF
+FLIXBUS:X96,FLIXBUS,FlixBus,Graz - Wien Flughafen,,3,,73D700,FFFFFF
+FLIXBUS:k320,FLIXBUS,FlixBus,Minsk - Warszawa,,3,,73D700,FFFFFF
+FLIXBUS:x400,FLIXBUS,FlixBus,Como-Venezia,,3,,73D700,FFFFFF
+FLIXBUS:x411,FLIXBUS,FlixBus,Milano-Venezia-Cortina,,3,,73D700,FFFFFF
