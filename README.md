@@ -1,4 +1,4 @@
-<h1>Multi Model Routing With Multi Armed Bandit</h1>
+<h1>Multimodal Routing With Multi Armed Bandit</h1>
 
 To install all dependencies, please run: <br>
 <code>pip install -r requirements.txt</code>
